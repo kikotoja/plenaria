@@ -1,0 +1,1101 @@
+{
+ "id": "neumo",
+ "area": "Respiratorio",
+ "grupo": "NEUMO",
+ "grupo_nombre": "Grupo de Trabajo de Enfermedades Respiratorias",
+ "resumen": "Novedades en respiratorio del último año: moléculas nuevas financiadas en España (depemokimab en asma grave tipo 2 y pólipos nasales; vanzacaftor/tezacaftor/deutivacaftor en fibrosis quística) y la primera indicación de biológicos financiada en EPOC (dupilumab y mepolizumab). Además, lo que viene (nerandomilast en fibrosis pulmonar, tozorakimab en EPOC), lo que no llega (brensocatib en bronquiectasias) y los resultados de octubre de 2026 de admilparant y tozorakimab.",
+ "prensa": [
+  {
+   "titular": "Hito en el abordaje de las enfermedades respiratorias: llega a España el primer tratamiento de solo dos dosis al año",
+   "medio": "Vozpópuli",
+   "fecha": "2026-07-16",
+   "url": "https://www.vozpopuli.com/sanitatem/hito-en-el-abordaje-de-las-enfermedades-respiratorias-llega-a-espana-el-primer-tratamiento-de-solo-dos-dosis-al-ano.html",
+   "evidencia": [
+    "Patología: asma grave con inflamación tipo 2 y rinosinusitis crónica grave con pólipos nasales, no «las enfermedades respiratorias».",
+    "Mecanismo: anticuerpo contra la IL-5, la misma diana que mepolizumab, reslizumab y benralizumab; lo nuevo es que basta una inyección cada 6 meses.",
+    "Frente a placebo, en 762 pacientes con asma grave, las exacerbaciones bajaron de 1,11 a 0,51 por paciente y año (SWIFT-1 y SWIFT-2, 52 semanas).",
+    "Al cambiar desde mepolizumab o benralizumab frente a seguir con ellos, en 1.717 pacientes: 0,57 frente a 0,49 exacerbaciones por año; no demostró no inferioridad (NIMBLE).",
+    "El informe de la CIPM concluye que la evidencia no permite situarlo por encima ni por debajo de los demás biológicos, y el IPT de la AEMPS en pólipos nasales (05-08-2026) lo considera «una opción biológica adicional»."
+   ],
+   "fuentes": [
+    1,
+    2,
+    3,
+    8,
+    12,
+    64
+   ]
+  }
+ ],
+ "farmacos": [
+  {
+   "id": "depemokimab",
+   "dci": "Depemokimab",
+   "seccion": "Ya en España",
+   "estado": "financiado",
+   "estado_texto": "Financiado en España desde el 1 de julio de 2026 (CIPM del 20 de mayo de 2026), con restricciones; disponible desde el 10 de julio de 2026.",
+   "patologia": "Asma grave con inflamación tipo 2 (eosinófilos elevados) no controlada con corticoide inhalado a dosis altas y otro controlador, desde 12 años; y rinosinusitis crónica grave con pólipos nasales en adultos.",
+   "mecanismo": "Anticuerpo anti-IL-5 de acción prolongada: frena la producción y la supervivencia de los eosinófilos. Es la misma diana que mepolizumab, reslizumab y benralizumab; lo nuevo es que dura tanto que basta una inyección cada 6 meses.",
+   "via_pauta": "Inyección subcutánea cada 6 meses.",
+   "datos": [
+    {
+     "texto": "Exacerbaciones de asma en un año frente a placebo: 0,51 frente a 1,11 por paciente y año, en 762 pacientes con asma grave, eosinófilos altos y al menos dos crisis el año anterior, sin biológico previo (52 semanas). Un 54 % menos en el análisis conjunto; un 58 % y un 48 % en cada ensayo.",
+     "ensayo": "SWIFT-1 y SWIFT-2",
+     "fuentes": [
+      2
+     ]
+    },
+    {
+     "texto": "Al cambiar desde mepolizumab o benralizumab frente a seguir con ellos, en 1.717 pacientes con asma bien controlada: 0,57 frente a 0,49 exacerbaciones por año; razón de tasas 1,16 (de 0,98 a 1,38). No demostró no inferioridad.",
+     "ensayo": "NIMBLE",
+     "fuentes": [
+      12
+     ]
+    },
+    {
+     "texto": "Exacerbaciones que acaban en ingreso o urgencias frente a placebo: 0,02 frente a 0,09 por paciente y año. Es un análisis secundario con pocos eventos.",
+     "ensayo": "SWIFT-1 y SWIFT-2",
+     "fuentes": [
+      2,
+      3
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2025-12-11",
+     "texto": "Opinión positiva del CHMP.",
+     "fuentes": [
+      65
+     ]
+    },
+    {
+     "fecha": "2025-12-16",
+     "texto": "La FDA lo aprueba en asma.",
+     "fuentes": [
+      5
+     ]
+    },
+    {
+     "fecha": "2026-02-12",
+     "texto": "La Comisión Europea lo autoriza en asma grave tipo 2 y en rinosinusitis crónica con pólipos nasales.",
+     "fuentes": [
+      65,
+      3
+     ]
+    },
+    {
+     "fecha": "2026-05-20",
+     "texto": "La CIPM acuerda su financiación con restricciones: en asma, con eosinófilos entre 150 y 300/µL y exacerbaciones previas, o 300/µL o más tras valoración individual; en pólipos nasales, solo tras dos o más cirugías.",
+     "fuentes": [
+      8,
+      9
+     ]
+    },
+    {
+     "fecha": "2026-07-01",
+     "texto": "Alta en la financiación del Sistema Nacional de Salud.",
+     "fuentes": [
+      8
+     ]
+    },
+    {
+     "fecha": "2026-07-10",
+     "texto": "Disponible en España.",
+     "fuentes": [
+      10
+     ]
+    },
+    {
+     "fecha": "2026-08-05",
+     "texto": "La AEMPS publica el IPT en pólipos nasales (IPT-474); en asma no consta IPT.",
+     "fuentes": [
+      64
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "No mejoró de forma significativa la calidad de vida ni la función pulmonar (FEV1) frente a placebo.",
+     "fuentes": [
+      2
+     ]
+    },
+    {
+     "texto": "Al cambiar desde benralizumab el resultado fue peor que desde mepolizumab.",
+     "fuentes": [
+      12
+     ]
+    },
+    {
+     "texto": "La FDA no lo autorizó en pólipos nasales (carta de respuesta completa), indicación que sí autorizó la Unión Europea.",
+     "fuentes": [
+      5,
+      6,
+      65
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "El informe público de la CIPM concluye que la evidencia no permite situarlo por encima ni por debajo de los demás biológicos.",
+     "fuentes": [
+      8
+     ]
+    },
+    {
+     "texto": "El IPT de la AEMPS en pólipos nasales (05-08-2026) lo considera «una opción biológica adicional».",
+     "fuentes": [
+      64
+     ]
+    }
+   ],
+   "como_leer": "Depemokimab no es una diana nueva: bloquea la IL-5, como otros biológicos del asma grave, pero dura tanto en sangre que basta una inyección cada 6 meses. En los ensayos SWIFT-1 y SWIFT-2, frente a placebo, los pacientes pasaron de una crisis al año (1,11) a una cada dos años (0,51), sin mejora significativa de la calidad de vida ni de la función pulmonar. En el ensayo NIMBLE se cambió a depemokimab a pacientes que ya estaban bien controlados con mepolizumab o benralizumab: el objetivo era demostrar que no era peor que seguir igual (no inferioridad) y no se consiguió. El titular habla de «las enfermedades respiratorias», pero la indicación es el asma grave tipo 2 y los pólipos nasales graves.",
+   "ultima_hora": false
+  },
+  {
+   "id": "vanzacaftor-tezacaftor-deutivacaftor",
+   "dci": "Vanzacaftor/tezacaftor/deutivacaftor",
+   "seccion": "Ya en España",
+   "estado": "financiado",
+   "estado_texto": "Financiado en España desde el 1 de junio de 2026 (CIPM del 28 de abril de 2026, tras aceptar las alegaciones), para toda la indicación autorizada.",
+   "patologia": "Fibrosis quística desde 6 años con al menos una mutación del gen CFTR que no sea de clase I.",
+   "mecanismo": "Modulador triple de la proteína CFTR: dos correctores (vanzacaftor y tezacaftor) hacen llegar más proteína a la superficie de la célula y un potenciador (deutivacaftor, ivacaftor deuterado) mantiene abierto el canal. Permite una toma al día, frente a las dos de elexacaftor/tezacaftor/ivacaftor.",
+   "via_pauta": "Oral, una toma al día, con alimentos con grasa. Dos presentaciones según el peso: 125/50/10 mg (40 kg o más) y 50/20/4 mg (menos de 40 kg).",
+   "datos": [
+    {
+     "texto": "Función pulmonar (ppFEV1) a las 24 semanas frente a elexacaftor/tezacaftor/ivacaftor: la misma, con 0,2 puntos porcentuales de diferencia en los dos ensayos, en 971 pacientes de 12 años o más; no inferior (margen pactado de −3 puntos; IC 95 % de −0,7 a 1,1 y de −0,5 a 0,9).",
+     "ensayo": "SKYLINE 102 y SKYLINE 103",
+     "fuentes": [
+      45
+     ]
+    },
+    {
+     "texto": "Cloruro en sudor en rango normal (menos de 30 mmol/L) a las 24 semanas, análisis agrupado de los dos ensayos: 31 de cada 100 con vanzacaftor/tezacaftor/deutivacaftor (142/465) frente a 23 de cada 100 con elexacaftor/tezacaftor/ivacaftor (108/479). Por debajo de 60 mmol/L: 86 % frente a 77 %. Es un marcador de la función de la proteína, no una variable clínica.",
+     "ensayo": "SKYLINE 102 y SKYLINE 103",
+     "fuentes": [
+      46
+     ]
+    },
+    {
+     "texto": "En niños de 6 a 11 años (78 tratados, sin grupo comparador, 24 semanas), el cloruro en sudor bajó 8,6 mmol/L y la función pulmonar se mantuvo.",
+     "ensayo": "RIDGELINE",
+     "fuentes": [
+      44,
+      48
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2024-12-20",
+     "texto": "La FDA lo aprueba.",
+     "fuentes": [
+      47
+     ]
+    },
+    {
+     "fecha": "2025-04-25",
+     "texto": "Opinión positiva del CHMP.",
+     "fuentes": [
+      42
+     ]
+    },
+    {
+     "fecha": "2025-06-30",
+     "texto": "La Comisión Europea lo autoriza; medicamento huérfano.",
+     "fuentes": [
+      42
+     ]
+    },
+    {
+     "fecha": "2026-02-25",
+     "texto": "La CIPM deniega su financiación.",
+     "fuentes": [
+      52
+     ]
+    },
+    {
+     "fecha": "2026-04-28",
+     "texto": "La CIPM aprueba su financiación al aceptar las alegaciones del laboratorio; en la misma sesión amplía elexacaftor/tezacaftor/ivacaftor e ivacaftor a mutaciones que no son de clase I.",
+     "fuentes": [
+      50
+     ]
+    },
+    {
+     "fecha": "2026-06-01",
+     "texto": "Alta en la financiación de las dos presentaciones (125/50/10 mg y 50/20/4 mg, esta por debajo de 40 kg).",
+     "fuentes": [
+      49,
+      50
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Hígado: la ficha técnica advierte de casos de insuficiencia hepática que acabaron en trasplante y pide analítica hepática cada 3 meses el primer año.",
+     "fuentes": [
+      44
+     ]
+    },
+    {
+     "texto": "En los ensayos, la ALT o la AST subió más de 3 veces por encima del límite normal en el 6 % frente al 3 % con elexacaftor/tezacaftor/ivacaftor. Los autores señalan un sesgo: casi todo el grupo control ya tomaba elexacaftor/tezacaftor/ivacaftor antes del estudio.",
+     "fuentes": [
+      46
+     ]
+    },
+    {
+     "texto": "Se sigue tomando con comida con grasa, como elexacaftor/tezacaftor/ivacaftor.",
+     "fuentes": [
+      44,
+      57
+     ]
+    },
+    {
+     "texto": "No sirve en las mutaciones de clase I, que no fabrican proteína CFTR.",
+     "fuentes": [
+      42,
+      44
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "El IPT de la AEMPS (IPT-416, citado en el informe público de financiación) considera vanzacaftor/tezacaftor/deutivacaftor y elexacaftor/tezacaftor/ivacaftor alternativas de eficacia comparable; las diferencias son la pauta de una toma y la evidencia en mutaciones raras.",
+     "fuentes": [
+      51
+     ]
+    },
+    {
+     "texto": "La agencia alemana IQWiG (01-10-2026) solo ve un indicio de beneficio añadido no cuantificable en los pacientes con F508del y una mutación de función mínima (menos exacerbaciones graves); en el resto, «no probado».",
+     "fuentes": [
+      54
+     ]
+    }
+   ],
+   "como_leer": "La fibrosis quística se debe a una proteína CFTR defectuosa; los moduladores la reparan: los correctores la ayudan a llegar a la superficie de la célula y los potenciadores mantienen abierto el canal. Este triple combina dos correctores y deutivacaftor, una versión deuterada de ivacaftor que dura más en el cuerpo y permite una sola toma al día. En los ensayos SKYLINE 102 y 103 se comparó con elexacaftor/tezacaftor/ivacaftor (control activo) buscando no inferioridad: la función pulmonar fue la misma, con 0,2 puntos de diferencia. El cloruro en sudor llegó a rango normal en 31 de cada 100 frente a 23, lo que indica que la proteína funciona algo mejor, no que el paciente esté mejor. En las mutaciones de clase I no hay proteína que reparar y no sirve.",
+   "ultima_hora": false
+  },
+  {
+   "id": "dupilumab-epoc",
+   "dci": "Dupilumab",
+   "seccion": "Indicación nueva en EPOC",
+   "estado": "financiado",
+   "estado_texto": "Financiado en EPOC en España (CIPM del 15 de julio de 2026, tras aceptar las alegaciones); disponible desde septiembre de 2026. Junto con mepolizumab, es el primer tratamiento biológico financiado en EPOC en España.",
+   "patologia": "EPOC de alto riesgo no controlada tras 6 meses de triple terapia inhalada, con 300 eosinófilos/µL o más documentados y 2 o más exacerbaciones moderadas o 1 grave en el año previo (condiciones de financiación en España).",
+   "mecanismo": "Anticuerpo que bloquea el receptor de la IL-4 y la IL-13; frena la inflamación tipo 2, la que se mide por los eosinófilos.",
+   "via_pauta": "",
+   "datos": [
+    {
+     "texto": "Exacerbaciones moderadas o graves en un año frente a placebo, añadido a triple terapia, en pacientes con EPOC y 300 eosinófilos/µL o más: un 30 % y un 34 % menos (razón de tasas 0,70 y 0,66), en dos ensayos de 939 y 935 pacientes (52 semanas).",
+     "ensayo": "BOREAS y NOTUS",
+     "fuentes": [
+      19
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2026-02-03",
+     "texto": "Trasciende que la CIPM ha denegado su financiación en EPOC por impacto presupuestario.",
+     "fuentes": [
+      16,
+      17
+     ]
+    },
+    {
+     "fecha": "2026-05-20",
+     "texto": "Nuevo acuerdo denegatorio de la CIPM en EPOC.",
+     "fuentes": [
+      9
+     ]
+    },
+    {
+     "fecha": "2026-07-15",
+     "texto": "La CIPM aprueba su financiación en EPOC al aceptar las alegaciones.",
+     "fuentes": [
+      13
+     ]
+    },
+    {
+     "fecha": "2026-09-06",
+     "texto": "La prensa sanitaria informa de que ya está disponible en España en EPOC.",
+     "fuentes": [
+      22
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Solo se financia en EPOC con 300 eosinófilos/µL o más documentados, tras 6 meses de triple terapia inhalada.",
+     "fuentes": [
+      13,
+      63
+     ]
+    },
+    {
+     "texto": "Se retira a los 12 meses si no reduce las exacerbaciones graves.",
+     "fuentes": [
+      13,
+      63
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "SEPAR, FENAER y EPOC España lamentaron públicamente la denegación de la financiación de dupilumab en EPOC (febrero de 2026). El 7 de julio de 2026, Qué! tituló «Sanidad rechaza por tercera vez financiar dupilumab para EPOC grave» (la frase es de la asociación de pacientes); ocho días después, la CIPM lo aprobó al aceptar las alegaciones.",
+     "fuentes": [
+      16,
+      17,
+      18,
+      13
+     ]
+    }
+   ],
+   "como_leer": "La EPOC se trata con inhaladores; la triple terapia junta dos broncodilatadores y un corticoide inhalado, y aun así algunos pacientes siguen teniendo crisis. En una parte de ellos la inflamación es eosinofílica, como en el asma, y ahí actúa dupilumab. En los ensayos BOREAS y NOTUS, frente a placebo y añadido a la triple terapia, las crisis moderadas o graves bajaron un 30 % y un 34 % (razón de tasas de 0,70 y 0,66): son reducciones relativas. Junto con mepolizumab, es el primer biológico financiado en EPOC en España, solo para los pacientes que siguen con crisis pese a la triple terapia y tienen 300 eosinófilos/µL o más.",
+   "ultima_hora": false
+  },
+  {
+   "id": "mepolizumab-epoc",
+   "dci": "Mepolizumab",
+   "seccion": "Indicación nueva en EPOC",
+   "estado": "financiado",
+   "estado_texto": "Financiado en EPOC en España como indicación nueva (CIPM del 15 de julio de 2026); disponible desde septiembre de 2026. Junto con dupilumab, es el primer tratamiento biológico financiado en EPOC en España.",
+   "patologia": "EPOC de alto riesgo no controlada tras 6 meses de triple terapia inhalada, con 300 eosinófilos/µL o más documentados y 2 o más exacerbaciones moderadas o 1 grave en el año previo (condiciones de financiación en España).",
+   "mecanismo": "Anticuerpo que bloquea la IL-5; frena la inflamación tipo 2, la que se mide por los eosinófilos.",
+   "via_pauta": "",
+   "datos": [
+    {
+     "texto": "Exacerbaciones moderadas o graves en un año frente a placebo, añadido a triple terapia, en pacientes con EPOC y 300 eosinófilos/µL o más: 0,80 frente a 1,01 por paciente y año (un 21 % menos), en 804 pacientes.",
+     "ensayo": "MATINEE",
+     "fuentes": [
+      20
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2026-07-15",
+     "texto": "La CIPM aprueba su financiación en EPOC como indicación nueva.",
+     "fuentes": [
+      13
+     ]
+    },
+    {
+     "fecha": "2026-09-01",
+     "texto": "Disponible en España en EPOC.",
+     "fuentes": [
+      21
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Solo se financia en EPOC con 300 eosinófilos/µL o más documentados, tras 6 meses de triple terapia inhalada.",
+     "fuentes": [
+      13
+     ]
+    },
+    {
+     "texto": "Se retira a los 12 meses si no reduce las exacerbaciones graves.",
+     "fuentes": [
+      13
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "En 2018 el comité asesor de la FDA votó 16 a 3 en contra de autorizarlo en EPOC: de sus dos primeros ensayos, uno no alcanzó su objetivo y la eficacia no se reprodujo con ninguna de las dos dosis; la FDA pidió más datos.",
+     "fuentes": [
+      73,
+      74
+     ]
+    },
+    {
+     "texto": "El ensayo posterior, MATINEE, hecho solo en pacientes con 300 eosinófilos/µL o más, sí fue positivo (21 % menos de exacerbaciones); en él se basan la autorización europea y la financiación en España.",
+     "fuentes": [
+      20,
+      13
+     ]
+    }
+   ],
+   "como_leer": "Mepolizumab ya se usaba en asma y bloquea la IL-5, la señal que mantiene vivos a los eosinófilos. En el ensayo MATINEE, frente a placebo y añadido a la triple terapia inhalada, los pacientes con EPOC y eosinófilos altos tuvieron 0,80 crisis por año frente a 1,01: un 21 % menos. No es la primera vez que se probó en EPOC: en 2018, con sus dos primeros ensayos, la FDA no lo autorizó porque el beneficio no se repitió; el ensayo nuevo se limitó a pacientes con 300 eosinófilos o más y ahí sí salió.",
+   "ultima_hora": false
+  },
+  {
+   "id": "nerandomilast",
+   "dci": "Nerandomilast",
+   "seccion": "Lo que viene",
+   "estado": "autorizado-ue",
+   "estado_texto": "Autorizado en la UE el 15 de julio de 2026; en España, autorizado y no comercializado, con IPT en marcha y la financiación «en estudio» (CIMA y BIFIMED, 18-10-2026).",
+   "patologia": "Fibrosis pulmonar idiopática y fibrosis pulmonar progresiva en adultos, solo o junto a nintedanib o pirfenidona.",
+   "mecanismo": "Inhibidor oral preferente de la fosfodiesterasa 4B (PDE4B), una enzima de las células inflamatorias y de los fibroblastos; frena a la vez la inflamación y la cicatrización del pulmón. Es el primer antifibrótico nuevo en más de diez años.",
+   "via_pauta": "Oral, 18 mg dos veces al día; 9 mg solo como reducción por intolerancia o con inhibidores del CYP3A.",
+   "datos": [
+    {
+     "texto": "Pérdida de capacidad vital forzada en 52 semanas frente a placebo, en 1.177 pacientes con fibrosis pulmonar idiopática: 115 frente a 184 ml.",
+     "ensayo": "FIBRONEER-IPF",
+     "fuentes": [
+      26
+     ]
+    },
+    {
+     "texto": "Pérdida de capacidad vital forzada en 52 semanas frente a placebo, en 1.176 pacientes con fibrosis pulmonar progresiva: 99 frente a 166 ml.",
+     "ensayo": "FIBRONEER-ILD",
+     "fuentes": [
+      27
+     ]
+    },
+    {
+     "texto": "Mortalidad en fibrosis pulmonar progresiva hasta el cierre del ensayo: 8,7 % con nerandomilast frente a 16,3 % con placebo. Es un análisis exploratorio.",
+     "ensayo": "FIBRONEER-ILD",
+     "fuentes": [
+      28,
+      29
+     ]
+    },
+    {
+     "texto": "Tolerancia en la extensión abierta (ERS, septiembre de 2026): lo dejó por efectos adversos el 6,9 % de quienes continuaron; la diarrea fue el efecto adverso más frecuente.",
+     "ensayo": "FIBRONEER-ON",
+     "fuentes": [
+      61
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2026-07-15",
+     "texto": "La Comisión Europea lo autoriza.",
+     "fuentes": [
+      24
+     ]
+    },
+    {
+     "fecha": "2026-07-23",
+     "texto": "La AEMPS inicia su IPT.",
+     "fuentes": [
+      32
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "La variable secundaria clave (exacerbación, ingreso respiratorio o muerte) no se alcanzó en ninguno de los dos ensayos; en fibrosis pulmonar idiopática la reducción de la mortalidad no fue significativa.",
+     "fuentes": [
+      28,
+      29,
+      30
+     ]
+    },
+    {
+     "texto": "La pirfenidona reduce a la mitad su exposición; con ella hay que mantener la dosis de 18 mg.",
+     "fuentes": [
+      25
+     ]
+    },
+    {
+     "texto": "No recupera función pulmonar: hace que se pierda más despacio.",
+     "fuentes": [
+      26,
+      27
+     ]
+    }
+   ],
+   "debate": [],
+   "como_leer": "En la fibrosis pulmonar el pulmón se llena de cicatriz y la capacidad vital forzada (el aire total que se puede expulsar) cae cada año; los tratamientos no la recuperan, la hacen caer más despacio. En FIBRONEER-IPF (fibrosis pulmonar idiopática) la pérdida en un año fue de 115 ml con nerandomilast frente a 184 ml con placebo, unos 69 ml menos; en FIBRONEER-ILD (fibrosis pulmonar progresiva), 99 frente a 166 ml, unos 67 ml menos. La menor mortalidad observada en fibrosis progresiva llama la atención, pero es exploratoria: la variable secundaria clave no se alcanzó. En España está autorizado pero todavía no se comercializa.",
+   "ultima_hora": false
+  },
+  {
+   "id": "tozorakimab",
+   "dci": "Tozorakimab",
+   "seccion": "Lo que viene",
+   "estado": "en-evaluacion",
+   "estado_texto": "En evaluación en la UE; en EE. UU., revisión prioritaria con decisión prevista en el primer trimestre de 2027. Datos a dos años presentados el 12 de octubre de 2026.",
+   "patologia": "EPOC con 2 o más exacerbaciones moderadas o 1 grave en el año previo pese al tratamiento inhalado, con cualquier cifra de eosinófilos (población de los ensayos).",
+   "mecanismo": "Anticuerpo contra la IL-33, una alarmina que liberan las células del bronquio dañado y que pone en marcha la inflamación; primero de su clase.",
+   "via_pauta": "Inyección subcutánea cada 4 semanas, añadida a los inhaladores.",
+   "datos": [
+    {
+     "texto": "Exacerbaciones moderadas o graves en un año frente a placebo, en exfumadores (variable principal): un 29 % y un 34 % menos (razón de tasas 0,71, IC 95 % 0,57-0,88; y 0,66, IC 95 % 0,55-0,80), en dos ensayos con 446 frente a 431 y 438 frente a 435 exfumadores; 2.306 pacientes aleatorizados en total entre exfumadores y fumadores.",
+     "ensayo": "OBERON y TITANIA",
+     "fuentes": [
+      71,
+      66
+     ]
+    },
+    {
+     "texto": "En el conjunto de pacientes, fumadores incluidos: un 30 % y un 29 % menos de exacerbaciones moderadas o graves frente a placebo (razón de tasas 0,70 y 0,71).",
+     "ensayo": "OBERON y TITANIA",
+     "fuentes": [
+      71
+     ]
+    },
+    {
+     "texto": "Reducción de exacerbaciones según los eosinófilos: un 23 % con menos de 150/µL y un 43 % con 300/µL o más (presentación en el congreso ERS recogida por PharmaTimes; fuente secundaria).",
+     "ensayo": "OBERON y TITANIA",
+     "fuentes": [
+      72
+     ]
+    },
+    {
+     "texto": "Datos a dos años (1.713 pacientes que venían de los dos ensayos principales, frente a placebo): exacerbaciones graves (con ingreso o muerte) en exfumadores, 0,26 frente a 0,33 por paciente y año, un 21 % menos (razón de tasas 0,79; IC 95 % 0,61-1,01; p = 0,059), sin significación estadística; era la variable principal.",
+     "ensayo": "PROSPERO",
+     "fuentes": [
+      66
+     ]
+    },
+    {
+     "texto": "Datos a dos años: exacerbaciones moderadas o graves, 1,37 frente a 2,02 por paciente y año con placebo, un 32 % menos.",
+     "ensayo": "PROSPERO",
+     "fuentes": [
+      66
+     ]
+    },
+    {
+     "texto": "Datos a dos años en el conjunto de pacientes, fumadores incluidos: exacerbaciones graves de 0,36 con placebo a 0,26 (un 27 % menos); análisis secundario sin corrección.",
+     "ensayo": "PROSPERO",
+     "fuentes": [
+      66
+     ]
+    }
+   ],
+   "situacion": [],
+   "seguridad_y_limites": [
+    {
+     "texto": "Acontecimientos adversos graves similares a placebo: 23,3 % frente a 27,0 % y 31,1 % frente a 32,4 %.",
+     "fuentes": [
+      71
+     ]
+    },
+    {
+     "texto": "Más reacciones en el lugar de la inyección: 6,5 % frente a 3,3 % y 9,8 % frente a 4,6 %.",
+     "fuentes": [
+      71
+     ]
+    },
+    {
+     "texto": "A dos años no ha demostrado reducir las exacerbaciones graves (las de ingreso o muerte).",
+     "fuentes": [
+      66
+     ]
+    }
+   ],
+   "debate": [],
+   "como_leer": "Dupilumab y mepolizumab solo se financian en la EPOC con 300 eosinófilos/µL o más; tozorakimab ataca otra vía, la IL-33, una señal de alarma que sueltan las células del bronquio dañado. En los ensayos OBERON y TITANIA, frente a placebo, se incluyeron pacientes con cualquier cifra de eosinófilos y la variable principal se midió en exfumadores: las crisis moderadas o graves bajaron un 29 % y un 34 %. La reducción se vio con todas las cifras de eosinófilos, mayor cuanto más altas. En los datos a dos años, las crisis graves (las de ingreso o muerte) bajaron un 21 %, pero sin significación estadística, mientras que las moderadas o graves siguieron bajando un 32 %.",
+   "ultima_hora": true
+  },
+  {
+   "id": "brensocatib",
+   "dci": "Brensocatib",
+   "seccion": "Lo que no llega",
+   "estado": "autorizado-ue",
+   "estado_texto": "Autorizado en la UE el 18 de noviembre de 2025, primer fármaco para esta enfermedad; el laboratorio no lo ha lanzado en Europa y en España no consta en CIMA ni en trámite de financiación (18-10-2026).",
+   "patologia": "Bronquiectasias no debidas a fibrosis quística con 2 o más exacerbaciones al año, desde 12 años.",
+   "mecanismo": "Inhibidor oral de la dipeptidil peptidasa 1 (DPP1, catepsina C), la enzima que activa las proteasas de los neutrófilos; primero de su clase.",
+   "via_pauta": "Oral, un comprimido al día; en la UE solo está autorizada la dosis de 25 mg.",
+   "datos": [
+    {
+     "texto": "Exacerbaciones en un año frente a placebo, con la dosis de 25 mg: 1,04 frente a 1,29 por paciente y año (un 19 % menos), en 1.721 adultos con al menos dos crisis el año anterior.",
+     "ensayo": "ASPEN",
+     "fuentes": [
+      33
+     ]
+    },
+    {
+     "texto": "Pacientes sin ninguna exacerbación en un año frente a placebo: 48,5 % frente a 40,3 %.",
+     "ensayo": "ASPEN",
+     "fuentes": [
+      33
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2025-11-18",
+     "texto": "La Comisión Europea lo autoriza, primer tratamiento para esta enfermedad.",
+     "fuentes": [
+      36
+     ]
+    },
+    {
+     "fecha": "2026-02-19",
+     "texto": "El laboratorio indica que evalúa cómo afectará la política de precios de EE. UU. al calendario de sus lanzamientos fuera de EE. UU.",
+     "fuentes": [
+      38
+     ]
+    },
+    {
+     "fecha": "2026-03-31",
+     "texto": "Reuters informa de la suspensión de su lanzamiento en Alemania.",
+     "fuentes": [
+      40
+     ]
+    },
+    {
+     "fecha": "2026-08-24",
+     "texto": "Aprobado en Japón.",
+     "fuentes": [
+      62
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Las exacerbaciones graves no se redujeron de forma significativa.",
+     "fuentes": [
+      33
+     ]
+    },
+    {
+     "texto": "Hiperqueratosis en la piel en el 3,0 % frente al 0,7 % con placebo.",
+     "fuentes": [
+      33
+     ]
+    },
+    {
+     "texto": "Hoy las bronquiectasias se tratan con macrólidos y antibióticos inhalados fuera de ficha técnica.",
+     "fuentes": [
+      33
+     ]
+    }
+   ],
+   "debate": [],
+   "como_leer": "En las bronquiectasias los bronquios están dilatados de forma permanente, retienen moco y se infectan una y otra vez; no había ningún fármaco autorizado. Brensocatib inhibe la DPP1, la enzima que activa las proteasas que liberan los neutrófilos y que, en exceso, dañan el bronquio. En el ensayo ASPEN, frente a placebo y con la dosis autorizada en Europa (25 mg), los pacientes tuvieron 1,04 crisis al año frente a 1,29: un 19 % menos, aproximadamente una crisis menos cada cuatro años por paciente. Las crisis graves no se redujeron de forma significativa. Está autorizado en Europa, pero el laboratorio no lo ha lanzado y en España no consta en CIMA.",
+   "ultima_hora": false
+  },
+  {
+   "id": "admilparant",
+   "dci": "Admilparant",
+   "seccion": "Última hora",
+   "estado": "en-investigacion",
+   "estado_texto": "Ensayo de fase 3 positivo con la dosis de 60 mg (12 de octubre de 2026); el laboratorio prevé tratar los resultados con las autoridades sanitarias de cara a solicitar la autorización.",
+   "patologia": "Fibrosis pulmonar idiopática.",
+   "mecanismo": "Antagonista oral del receptor 1 del ácido lisofosfatídico (LPA1), una vía que activa los fibroblastos y la cicatrización.",
+   "via_pauta": "Oral, dos veces al día.",
+   "datos": [
+    {
+     "texto": "Pérdida de capacidad vital forzada a las 52 semanas frente a placebo, en unos 1.255 pacientes con fibrosis pulmonar idiopática: la dosis de 60 mg dos veces al día la frenó de forma significativa (objetivo principal cumplido); la de 120 mg, no. El laboratorio no ha publicado la magnitud del efecto.",
+     "ensayo": "ALOFT-IPF",
+     "fuentes": [
+      58
+     ]
+    }
+   ],
+   "situacion": [],
+   "seguridad_y_limites": [
+    {
+     "texto": "Aún no se conoce la magnitud del efecto ni los valores de p; se presentará en un congreso.",
+     "fuentes": [
+      58
+     ]
+    },
+    {
+     "texto": "Los datos en fibrosis pulmonar progresiva se esperan a principios de 2027.",
+     "fuentes": [
+      58
+     ]
+    }
+   ],
+   "debate": [],
+   "como_leer": "El ácido lisofosfatídico, al unirse a su receptor LPA1, activa los fibroblastos y la cicatrización del pulmón; admilparant bloquea ese receptor. El ensayo de fase 3 ALOFT-IPF, frente a placebo, cumplió su objetivo principal con la dosis de 60 mg: frenó de forma significativa la pérdida de capacidad vital forzada a las 52 semanas. La dosis de 120 mg no alcanzó significación estadística. Es otro mecanismo nuevo en fibrosis pulmonar, pero todavía no se sabe cuánto frena la pérdida de pulmón.",
+   "ultima_hora": true
+  }
+ ],
+ "ultima_hora": [
+  {
+   "fecha": "2026-10-01",
+   "texto": "La agencia alemana IQWiG solo ve un indicio de beneficio añadido no cuantificable de vanzacaftor/tezacaftor/deutivacaftor en pacientes con F508del y una mutación de función mínima (menos exacerbaciones graves); en el resto, «no probado».",
+   "fuentes": [
+    54
+   ]
+  },
+  {
+   "fecha": "2026-10-12",
+   "texto": "Admilparant, fibrosis pulmonar idiopática: en un ensayo de fase 3 (ALOFT-IPF) con unos 1.255 pacientes frente a placebo, la dosis de 60 mg dos veces al día frenó de forma significativa la pérdida de capacidad vital forzada a las 52 semanas; la de 120 mg, no. El laboratorio aún no ha publicado la magnitud del efecto, que presentará en un congreso posterior, y prevé tratar los resultados con las autoridades sanitarias de cara a solicitar la autorización.",
+   "fuentes": [
+    58,
+    78
+   ]
+  },
+  {
+   "fecha": "2026-10-12",
+   "texto": "Tozorakimab, EPOC: datos a dos años (1.713 pacientes frente a placebo). Exacerbaciones graves (con ingreso o muerte) en exfumadores: 0,26 frente a 0,33 por paciente y año, un 21 % menos, sin significación estadística; era la variable principal. Exacerbaciones moderadas o graves: 1,37 frente a 2,02, un 32 % menos.",
+   "fuentes": [
+    66
+   ]
+  },
+  {
+   "fecha": "2026-10-18",
+   "texto": "Congreso CHEST 2026 (Phoenix, 18-21 de octubre), brensocatib: análisis posterior del ensayo ASPEN que relaciona el color del esputo que anota el paciente con la actividad de las proteasas de los neutrófilos y de la enfermedad en bronquiectasias.",
+   "fuentes": [
+    75,
+    70
+   ]
+  },
+  {
+   "fecha": "2026-10-18",
+   "texto": "Congreso CHEST 2026, mepolizumab en EPOC: análisis agrupado de sus ensayos frente a placebo (METREX, METREO y MATINEE) sobre una menor exposición a corticoides sistémicos en pacientes con eosinófilos elevados.",
+   "fuentes": [
+    77
+   ]
+  },
+  {
+   "fecha": "2026-10-21",
+   "texto": "Congreso CHEST 2026, tozorakimab en EPOC: en sus dos ensayos principales (OBERON y TITANIA), la puntuación de síntomas respiratorios diarios (escala de 0 a 40) mejoró a las 52 semanas en torno a 1 punto más que con placebo (significación nominal); también se presentó el análisis de tapones de moco.",
+   "fuentes": [
+    76,
+    66
+   ]
+  }
+ ],
+ "grupo_aporta": [
+  "Depemokimab supone un cambio sustancial.",
+  "Nerandomilast abre una alternativa nueva en un campo, la fibrosis pulmonar, con poco desarrollo reciente.",
+  "Brensocatib es el primer fármaco para las bronquiectasias no debidas a fibrosis quística y mejorará el manejo de estos pacientes.",
+  "Dupilumab y mepolizumab cambian el abordaje de la EPOC: actúan sobre mecanismos inflamatorios concretos y permiten tratar a pacientes con un perfil definido que siguen teniendo exacerbaciones pese al tratamiento optimizado.",
+  "La eficacia de mepolizumab en EPOC se ha cuestionado por resultados no del todo consistentes entre ensayos.",
+  "En dupilumab y mepolizumab los pacientes candidatos están muy acotados, por lo que habrá que ver su uso en la vida real."
+ ],
+ "fuentes": [
+  {
+   "n": 1,
+   "texto": "Vozpópuli, 16-07-2026: titular de prensa.",
+   "url": "https://www.vozpopuli.com/sanitatem/hito-en-el-abordaje-de-las-enfermedades-respiratorias-llega-a-espana-el-primer-tratamiento-de-solo-dos-dosis-al-ano.html"
+  },
+  {
+   "n": 2,
+   "texto": "Jackson DJ et al., SWIFT-1 y SWIFT-2, NEJM 2024: n, tasas, calidad de vida, FEV1, exacerbaciones con ingreso.",
+   "url": "https://iris.unibs.it/retrieve/090a974d-808a-4c75-a1c2-90c03d02adca/NEJMoa2406673.pdf"
+  },
+  {
+   "n": 3,
+   "texto": "GSK, aprobación de depemokimab por la Comisión Europea, 17-02-2026: indicaciones UE.",
+   "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-by-the-european-commission/"
+  },
+  {
+   "n": 5,
+   "texto": "GSK, aprobación de depemokimab por la FDA, 16-12-2025.",
+   "url": "https://www.gsk.com/media/blwb35gf/sea-exdensur-depemokimab-approved-by-us-fda-final.pdf"
+  },
+  {
+   "n": 6,
+   "texto": "Kalkine, carta de respuesta completa de la FDA en pólipos (secundaria).",
+   "url": "https://kalkine.co.uk/news/healthcare/gsk-lsegsk-and-depemokimab-a-new-severe-asthma-story-built-on-ultra-long-acting-anti-il-5"
+  },
+  {
+   "n": 8,
+   "texto": "Ministerio de Sanidad, informe público de depemokimab: CIPM 20-05-2026, restricciones, posicionamiento.",
+   "url": "https://vsf-iwsold-pro-portal.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/informesPublicos/docs/InformePublicoExdensur.pdf"
+  },
+  {
+   "n": 9,
+   "texto": "Acuerdos de la CIPM, sesión 270 (20-05-2026): depemokimab; acuerdo denegatorio de dupilumab en EPOC.",
+   "url": "https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/docs/Acuerdos_CIPM_270-.pdf"
+  },
+  {
+   "n": 10,
+   "texto": "ConSalud, 15-07-2026: disponible desde el día 10.",
+   "url": "https://www.consalud.es/pacientes/pacientes-avances/depemokimab-ya-es-una-realidad-en-espana-para-tratar-asma-grave-con-inflamacion-tipo-2-y-rinosinusitis-cronica-con-polipos-nasales.html"
+  },
+  {
+   "n": 12,
+   "texto": "AJMC, ATS 2026, y resumen AJRCCM 2026: NIMBLE, 0,57 frente a 0,49. Otros enlaces: https://medicine.yale.edu/internal-medicine/pulmonary/ycaad/publication-details/twice-yearly-depemokimab-vs-short-acting-biologics-in-asthma/",
+   "url": "https://www.ajmc.com/view/mixed-asthma-switching-data-strong-ipf-results-presented-at-ats-2026"
+  },
+  {
+   "n": 13,
+   "texto": "Acuerdos de la CIPM, sesión 272 (15-07-2026): mepolizumab y dupilumab en EPOC, condiciones.",
+   "url": "https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/docs/Acuerdos_CIPM_272.pdf"
+  },
+  {
+   "n": 15,
+   "texto": "iSanidad, 17-07-2026, y página de la CIPM (sin documentos de octubre a 18-10-2026). Otros enlaces: https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/home.htm",
+   "url": "https://isanidad.com/381704/la-cipm-financia-tres-nuevos-medicamentos-y-amplia-cinco-indicaciones-ya-financiadas/"
+  },
+  {
+   "n": 16,
+   "texto": "iSanidad, 03-02-2026.",
+   "url": "https://isanidad.com/359635/pacientes-con-epoc-duchenne-lamentan-sanidad-decida-no-financiar-indicaciones-especificas-dupilumab-vamorolona/"
+  },
+  {
+   "n": 17,
+   "texto": "SEPAR, FENAER y EPOC España, 12-02-2026.",
+   "url": "https://www.separ.es/sites/default/files/2026-02/NdP%20no%20financiaci%C3%B3n%20de%20dupilumab%20en%20EPOC.pdf"
+  },
+  {
+   "n": 18,
+   "texto": "Qué!, 07-07-2026 y 18-07-2026. Otros enlaces: https://www.que.es/2026/07/18/sanidad-financia-tratamiento-epoc-grave/",
+   "url": "https://www.que.es/2026/07/07/sanidad-rechaza-dupilumab-epoc-grave/"
+  },
+  {
+   "n": 19,
+   "texto": "NICE TA1142, BOREAS y NOTUS.",
+   "url": "https://www.nice.org.uk/guidance/ta1142/resources/dupilumab-local-formulary-information-15664197277/chapter/Clinical-effectiveness"
+  },
+  {
+   "n": 20,
+   "texto": "GSK, MATINEE en NEJM, 30-04-2025.",
+   "url": "https://www.gsk.com/en-gb/media/press-releases/nucala-mepolizumab-delivers-clinically-meaningful-and-statistically-significant-reduction-in-copd-exacerbations-with-positive-matinee-trial-results-published-in-nejm/"
+  },
+  {
+   "n": 21,
+   "texto": "El Global, 01-09-2026: mepolizumab disponible.",
+   "url": "https://elglobalfarma.com/industria/disponible-espana-nucala-epoc/"
+  },
+  {
+   "n": 22,
+   "texto": "iSanidad, 06-09-2026: dupilumab disponible.",
+   "url": "https://isanidad.com/385448/dupilumab-ya-esta-disponible-en-espana-para-tratar-la-epoc-no-controlada-con-inflamacion-tipo-2/"
+  },
+  {
+   "n": 24,
+   "texto": "EMA, EPAR de nerandomilast: autorización 15-07-2026, indicaciones.",
+   "url": "https://www.ema.europa.eu/el/medicines/human/EPAR/jascayd"
+  },
+  {
+   "n": 25,
+   "texto": "EMA, ficha técnica de nerandomilast: posología, pirfenidona.",
+   "url": "https://www.ema.europa.eu/es/documents/product-information/jascayd-epar-product-information_es.pdf"
+  },
+  {
+   "n": 26,
+   "texto": "Richeldi L et al., FIBRONEER-IPF, NEJM 2025.",
+   "url": "https://repositorio.bc.ufg.br/items/58b2a65d-0f82-4dca-a5a9-fc3cadddb22b"
+  },
+  {
+   "n": 27,
+   "texto": "Maher TM et al., FIBRONEER-ILD, NEJM 2025.",
+   "url": "https://repositorio.bc.ufg.br/items/e19157bb-a09c-4d4f-b42e-315468e261c9/full"
+  },
+  {
+   "n": 28,
+   "texto": "FIBRONEER-ILD, seguimiento completo, ERJ 2026: 8,7 % frente a 16,3 %.",
+   "url": "https://publications.ersnet.org/content/erj/early/2026/02/19/1399300301899-2025"
+  },
+  {
+   "n": 29,
+   "texto": "HCPLive, análisis agrupado.",
+   "url": "https://www.hcplive.com/view/nerandomilast-reduces-mortality-risk-pulmonary-fibrosis-analysis"
+  },
+  {
+   "n": 30,
+   "texto": "Pharma Focus Europe, autorización UE: variable secundaria clave no alcanzada.",
+   "url": "https://www.pharmafocuseurope.com/news/european-commission-approves-jascayd"
+  },
+  {
+   "n": 32,
+   "texto": "AEMPS, 23-07-2026, inicio de IPT.",
+   "url": "https://www.aemps.gob.es/informa/la-aemps-inicia-los-ipt-de-los-medicamentos-que-han-obtenido-una-opinion-positiva-en-la-reunion-del-chmp-celebrada-en-mayo-2026/"
+  },
+  {
+   "n": 33,
+   "texto": "Chalmers JD et al., ASPEN, NEJM 2025.",
+   "url": "https://orbi.uliege.be/bitstream/2268/344356/1/CHALMERS%202025_Phase%203%20Trial%20of%20the%20DPP-1%20Inhibitor_N%20Engl%20J%20Med_ppediteur.pdf"
+  },
+  {
+   "n": 36,
+   "texto": "Comisión Europea, 18-11-2025.",
+   "url": "https://health.ec.europa.eu/latest-updates/commission-authorises-first-treatment-serious-chronic-lung-disease-2025-11-18_en"
+  },
+  {
+   "n": 38,
+   "texto": "Insmed, resultados del 4T de 2025, 19-02-2026.",
+   "url": "https://investor.insmed.com/2026-02-19-Insmed-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Provides-Business-Update"
+  },
+  {
+   "n": 39,
+   "texto": "Insmed, resultados del 2T de 2026.",
+   "url": "http://www.prnewswire.com/news-releases/insmed-reports-second-quarter-2026-financial-results-and-provides-business-update-302844094.html"
+  },
+  {
+   "n": 40,
+   "texto": "Reuters, 31-03-2026, vía Stockopedia.",
+   "url": "https://www.stockopedia.com/share-prices/insmed-NSQ:INSM/news/focus-drugmakers-delay-some-european-launches-with-a-wary-eye-on-trump-apos-s-pricing-policies-019e6a19-2b0c-730a-b9c4-7429155b6c22/"
+  },
+  {
+   "n": 42,
+   "texto": "EMA, EPAR de vanzacaftor/tezacaftor/deutivacaftor: indicación, CHMP 25-04-2025, autorización 30-06-2025, huérfano.",
+   "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/alyftrek"
+  },
+  {
+   "n": 43,
+   "texto": "EMA, informe público de evaluación de vanzacaftor/tezacaftor/deutivacaftor: deutivacaftor deuterado, una toma al día, ampliación a «no clase I».",
+   "url": "https://www.ema.europa.eu/en/documents/assessment-report/alyftrek-epar-public-assessment-report_en.pdf"
+  },
+  {
+   "n": 44,
+   "texto": "CIMA, ficha técnica de vanzacaftor/tezacaftor/deutivacaftor: indicación, posología con grasa, advertencias hepáticas, resultados en niños.",
+   "url": "https://cima.aemps.es/cima/dochtml/ft/1251943001/FT_1251943001.html"
+  },
+  {
+   "n": 45,
+   "texto": "Keating et al., Lancet Respir Med 2025;13(3):256-271: n, FEV1, no inferioridad.",
+   "url": "https://eprints.whiterose.ac.uk/id/eprint/225084/"
+  },
+  {
+   "n": 46,
+   "texto": "Keating et al., manuscrito de autor: cloruro por umbrales (agrupado), seguridad, transaminasas.",
+   "url": "https://research.dial.uclouvain.be/bitstreams/72983658-23a4-442f-af09-ccb077e771d0/download"
+  },
+  {
+   "n": 47,
+   "texto": "Vertex, aprobación de la FDA, 20-12-2024.",
+   "url": "https://investors.vrtx.com/news-releases/news-release-details/vertex-announces-us-fda-approval-alyftrektm-once-daily-next"
+  },
+  {
+   "n": 48,
+   "texto": "Hoppe et al., RIDGELINE, Lancet Respir Med, y UCL Discovery: 78 niños, 24 semanas. Otros enlaces: https://discovery-pp.ucl.ac.uk/id/eprint/10204294",
+   "url": "https://dzl.de/publication/10-1016-s2213-26002400407-7/"
+  },
+  {
+   "n": 49,
+   "texto": "BIFIMED, vanzacaftor/tezacaftor/deutivacaftor 125/50/10 mg (CN 768306) y 50/20/4 mg (CN 768307): alta 01-06-2026. Otros enlaces: https://www.sanidad.gob.es/profesionales/medicamentos.do?metodo=verDetalle&cn=768307",
+   "url": "https://www.sanidad.gob.es/profesionales/medicamentos.do?metodo=verDetalle&cn=768306"
+  },
+  {
+   "n": 50,
+   "texto": "Acuerdos de la CIPM, sesión 269 (28-04-2026): alegaciones aceptadas, condiciones, precio, VALTERMED.",
+   "url": "https://vsf-iwsold-pro-portal.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/docs/Acuerdos_CIPM_269.pdf"
+  },
+  {
+   "n": 51,
+   "texto": "Ministerio de Sanidad, informe público de vanzacaftor/tezacaftor/deutivacaftor (30-07-2026): IPT-416, eficacia comparable.",
+   "url": "https://vsf-iwsold-pro-portal.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/informesPublicos/docs/InformePublicoAlyftrek.pdf"
+  },
+  {
+   "n": 52,
+   "texto": "Acuerdos de la CIPM, sesión 267 (25-02-2026): denegación inicial.",
+   "url": "https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/docs/Acuerdos_CIPM_267.pdf"
+  },
+  {
+   "n": 53,
+   "texto": "Nota informativa de la CIPM, abril de 2026.",
+   "url": "https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/docs/Nota_CIPM_Abril_2026.pdf"
+  },
+  {
+   "n": 54,
+   "texto": "IQWiG, evaluación D-1352 (01-10-2026).",
+   "url": "https://www.g-ba.de/downloads/92-975-10002/2026-10-01_Nutzenbewertung-IQWiG_Deutivacaftor-Tezacaftor-Vanzacaftor_D-1352.pdf"
+  },
+  {
+   "n": 55,
+   "texto": "NICE, noticia de TA1085: recomendado con acuerdo comercial.",
+   "url": "https://www.nice.org.uk/news/articles/new-cystic-fibrosis-drug-fast-tracked-for-nhs-use"
+  },
+  {
+   "n": 56,
+   "texto": "Prensa de vanzacaftor/tezacaftor/deutivacaftor: FEFQ, 29-04-2026; OKdiario (Navarra), 30-04-2026; Farmacosalud, 02-06-2026. Otros enlaces: https://navarra.okdiario.com/articulo/sociedad/navarra-celebra-avance-que-permitira-tratar-93-personas-que-sufren-enfermedad-muy-grave/20260430173006642820.html ; https://farmacosalud.com/deutivacaftor-tezacaftor-vanzacaftor-reembolsado-en-espana-para-personas-con-fibrosis-quistica/",
+   "url": "https://fibrosisquistica.org/en/sanidad-aprueba-la-financiacion-de-alyftrek-y-amplia-la-indicacion-de-kaftrio-para-mas-mutaciones-en-el-sistema-nacional-de-salud/"
+  },
+  {
+   "n": 57,
+   "texto": "CIMA, ficha técnica de elexacaftor/tezacaftor/ivacaftor: dos tomas, con grasa.",
+   "url": "https://cima.aemps.es/cima/dochtml/ft/1201468001/FT_1201468001.html"
+  },
+  {
+   "n": 58,
+   "texto": "BMS, ALOFT-IPF, 12-10-2026 (comunicado en Finviz), y HCPLive, 12-10-2026. Otros enlaces: https://www.hcplive.com/view/aloft-ipf-admilparant-60-mg-meets-primary-fvc-end-point",
+   "url": "https://finviz.com/news/401110/bristol-myers-squibb-announces-phase-3-aloft-ipf-trial-evaluating-admilparant-in-adults-with-idiopathic-pulmonary-fibrosis-met-primary-endpoint"
+  },
+  {
+   "n": 59,
+   "texto": "EMA, highlights del CHMP del 12-15 de octubre de 2026.",
+   "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026"
+  },
+  {
+   "n": 60,
+   "texto": "CIMA, nerandomilast, y BIFIMED, CN 771422: no comercializado, financiación en estudio. Otros enlaces: https://www.sanidad.gob.es/profesionales/medicamentos.do?metodo=verDetalle&cn=771422",
+   "url": "https://cima.aemps.es/cima/rest/medicamentos?nombre=jascayd"
+  },
+  {
+   "n": 61,
+   "texto": "HCPLive, FIBRONEER-ON en ERS 2026, y Nuaxia, Corea (secundarias). Otros enlaces: https://www.nuaxia.com/post/south-korea-approves-jascayd-nerandomilast-for-idiopathic-pulmonary-fibrosis",
+   "url": "https://www.hcplive.com/view/fibroneer-on-nerandomilast-durable-ipf-ppf-safety-wuyts"
+  },
+  {
+   "n": 62,
+   "texto": "Insmed, aprobación en Japón, 24-08-2026, y CIMA, búsqueda de brensocatib (sin resultados, 18-10-2026). Otros enlaces: https://cima.aemps.es/cima/rest/medicamentos?practiv1=brensocatib",
+   "url": "https://investor.insmed.com/2026-08-24-BRINSUPRI-R-brensocatib-Approved-by-Japans-Ministry-of-Health,-Labour-and-Welfare-for-the-Treatment-of-Patients-With-Non-Cystic-Fibrosis-Bronchiectasis,-a-Serious,-Chronic-Lung-Disease?asPDF=1"
+  },
+  {
+   "n": 63,
+   "texto": "BIFIMED, dupilumab, CN 758028: condiciones en EPOC y criterio de parada.",
+   "url": "https://www.sanidad.gob.es/profesionales/medicamentos.do?metodo=verDetalle&cn=758028"
+  },
+  {
+   "n": 64,
+   "texto": "AEMPS, IPT-474 de depemokimab: pólipos nasales.",
+   "url": "https://www.aemps.gob.es/medicamentosUsoHumano/informesPublicos/docs/2026/IPT-474-exdensur-depemokimab.pdf"
+  },
+  {
+   "n": 65,
+   "texto": "EMA, EPAR de depemokimab: CHMP 11-12-2025, autorización 12-02-2026.",
+   "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/exdensur"
+  },
+  {
+   "n": 66,
+   "texto": "AstraZeneca, tozorakimab en CHEST 2026 (12-10-2026).",
+   "url": "https://www.astrazeneca.com/media-centre/medical-releases/new-data-at-chest-2026-provide-further-evidence-supporting-the-favourable-clinical-profile-of-tozorakimab-in-copd.html"
+  },
+  {
+   "n": 67,
+   "texto": "Tezepelumab: Lipworth et al., NEJM 2025; acuerdos de la CIPM, sesión 266; IPT-472. Remesa de IPT de octubre: Redacción Médica, 16-10-2026. Otros enlaces: https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/docs/Acuerdos_CIPM_266.pdf ; https://www.aemps.gob.es/medicamentosUsoHumano/informesPublicos/docs/2026/IPT-472-tezspire-tezepelumab.pdf ; https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261016/cancer-diabetes-enfermedades-raras-centran-la-nueva-remesa-de-ipt-sanidad-en-octubre/362341_0.html",
+   "url": "https://discovery.dundee.ac.uk/en/publications/tezepelumab-in-adults-with-severe-chronic-rhinosinusitis-with-nas/"
+  },
+  {
+   "n": 68,
+   "texto": "Ministerio de Sanidad, informe público de sotatercept, y BIFIMED, CN 765664. Otros enlaces: https://www.sanidad.gob.es/profesionales/medicamentos.do?metodo=verDetalle&cn=765664",
+   "url": "https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/informesPublicos/docs/InformePublicoWinrevair.pdf"
+  },
+  {
+   "n": 69,
+   "texto": "EMA, retirada de la solicitud de autorización de ensifentrina.",
+   "url": "https://www.ema.europa.eu/en/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-ohtuvayre-ensifentrine_en.pdf"
+  },
+  {
+   "n": 70,
+   "texto": "Insmed en CHEST 2026 (14-10-2026), y HCPLive, cobertura de CHEST. Otros enlaces: https://www.hcplive.com/conference/chest",
+   "url": "https://www.stocktitan.net/news/INSM/insmed-to-present-new-data-across-its-respiratory-portfolio-at-chest-k5lfl8u7hj69.html"
+  },
+  {
+   "n": 71,
+   "texto": "Drug Topics, 26-09-2026, sobre Sciurba FC et al., «Tozorakimab to Prevent COPD Exacerbations», NEJM, 08-09-2026, doi 10.1056/NEJMoa2606998: n por brazo, razones de tasas, seguridad.",
+   "url": "https://www.drugtopics.com/view/tozorakimab-reduces-copd-exacerbations-in-phase-3-trials"
+  },
+  {
+   "n": 72,
+   "texto": "PharmaTimes, 16-09-2026: resultados por eosinófilos presentados en ERS 2026 (secundaria).",
+   "url": "https://pharmatimes.com/news/tozorakimab-shows-broad-copd-benefit-in-new-phase-3-data/"
+  },
+  {
+   "n": 73,
+   "texto": "AJMC, 25-07-2018: comité asesor de la FDA, 16 votos contra 3; uno de los dos ensayos sin alcanzar su objetivo.",
+   "url": "https://www.ajmc.com/view/fda-advisory-committee-votes-against-approving-mepolizumab-for-copd"
+  },
+  {
+   "n": 74,
+   "texto": "HCPLive, 07-09-2018: carta de respuesta completa de la FDA, más datos en EPOC.",
+   "url": "https://www.hcplive.com/view/gsk-receives-crl-for-mepolizumabs-copd-addon-therapy-application"
+  },
+  {
+   "n": 75,
+   "texto": "HCPLive, 18-10-2026: brensocatib, análisis del color del esputo en el ensayo ASPEN presentado en CHEST 2026.",
+   "url": "https://www.hcplive.com/view/aspen-sputum-color-associated-with-bronchiectasis-disease-activity"
+  },
+  {
+   "n": 76,
+   "texto": "MedCentral, resumen del congreso CHEST 2026: tozorakimab, síntomas respiratorios (−2,31 frente a −1,41 y −1,92 frente a −0,84).",
+   "url": "https://www.medcentral.com/pulmonology/american-college-of-chest-physicians-2026-annual-meeting-research-roundup"
+  },
+  {
+   "n": 77,
+   "texto": "HCPLive, resumen del día 1 de CHEST 2026, y HCPLive, 18-10-2026: mepolizumab y exposición a corticoides sistémicos en EPOC (análisis agrupado). Otros enlaces: https://hcplive.com/view/mepolizumab-reduces-systemic-corticosteroid-exposure-eosinophilic-copd",
+   "url": "https://www.hcplive.com/view/chest-2026-day-1-recap-asthma-copd-bronchiectasis"
+  },
+  {
+   "n": 78,
+   "texto": "AJMC, 14-10-2026: admilparant, ensayo ALOFT-IPF; resultados detallados en un congreso posterior.",
+   "url": "https://www.ajmc.com/view/admilparant-phase-3-aloft-ipf-trial-meets-primary-end-point-in-ipf"
+  }
+ ]
+}

@@ -1,0 +1,651 @@
+{
+ "id": "vih",
+ "area": "VIH",
+ "grupo": "AFVIH",
+ "grupo_nombre": "Grupo de Atención Farmacéutica al paciente con VIH",
+ "resumen": "Fármacos de acción prolongada o de pauta espaciada en prevención (PrEP) y tratamiento del VIH: cabotegravir inyectable cada 2 meses en PrEP, financiado en España desde 2026; lenacapavir subcutáneo cada 6 meses en PrEP, autorizado en la UE y sin financiar en España; doravirina/islatravir diario, aprobado por la FDA y en evaluación en la EMA, e islatravir/lenacapavir semanal, en investigación. Además, cabotegravir cada 4 meses, con rilpivirina en tratamiento y solo en prevención, aún sin aprobar en ningún país.",
+ "prensa": [
+  {
+   "titular": "España es el primer país europeo en financiar el PrEP, un tratamiento inyectable para VIH",
+   "medio": "Público",
+   "fecha": "2026-02-26",
+   "url": "https://www.publico.es/sociedad/sanidad/espana-primer-pais-europeo-financiar-prep-tratamiento-inyectable-vih.html",
+   "evidencia": [
+    "Es profilaxis preexposición (PrEP): prevención en personas sin VIH, no tratamiento.",
+    "Mecanismo: cabotegravir es un inhibidor de la integrasa (la enzima con la que el virus inserta su material genético en la célula), en inyección intramuscular de liberación lenta cada 2 meses.",
+    "España es el primer país de la UE en financiarla; Inglaterra la recomendó antes (NICE, 17 de octubre de 2025).",
+    "Se financia solo cuando la PrEP oral no es adecuada."
+   ],
+   "fuentes": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "titular": "Paso histórico contra el VIH: llega la primera PrEP inyectable cada dos meses financiada por la sanidad pública",
+   "medio": "Hoy Aragón",
+   "fecha": "2026-04-13",
+   "url": "https://www.hoyaragon.es/espana/paso-historico-vih-llega-primera-prep-inyectable-cada-dos-meses-financiada-sanidad-publica/20260413153533127447.html",
+   "evidencia": [
+    "La financiación se acordó en la CIPM del 25 de febrero de 2026; el 13 de abril de 2026 es la fecha en que llegó a los hospitales.",
+    "Solo se financia cuando la PrEP oral no es adecuada.",
+    "Frente al comprimido diario de tenofovir/emtricitabina, que también protege: 0,20 frente a 1,85 infecciones por cada 100 personas y año en 3.178 mujeres del África subsahariana (HPTN 084); 0,41 frente a 1,22 en 4.566 hombres que tienen sexo con hombres y mujeres trans (HPTN 083)."
+   ],
+   "fuentes": [
+    3,
+    5,
+    6,
+    8
+   ]
+  }
+ ],
+ "farmacos": [
+  {
+   "id": "cabotegravir-prep",
+   "dci": "Cabotegravir",
+   "seccion": "Ya en España",
+   "estado": "financiado",
+   "estado_texto": "Financiado en España desde la CIPM del 25-02-2026 y en los hospitales desde el 13-04-2026, solo cuando la PrEP oral no es adecuada.",
+   "patologia": "Profilaxis preexposición (PrEP) frente al VIH por vía sexual en adultos y adolescentes de al menos 35 kg: prevención en personas sin VIH, no tratamiento.",
+   "mecanismo": "Inhibidor de la integrasa, la enzima con la que el virus inserta su material genético en la célula, en inyección intramuscular de liberación lenta.",
+   "via_pauta": "Inyección intramuscular (en el glúteo) cada 2 meses: 7 inyecciones el primer año, porque las dos primeras van separadas un mes, y 6 a partir del segundo.",
+   "datos": [
+    {
+     "texto": "Infecciones por VIH por cada 100 personas y año: 0,20 con cabotegravir frente a 1,85 con el comprimido diario de tenofovir/emtricitabina (que también protege), en 3.178 mujeres del África subsahariana; 4 frente a 36 infecciones. Es el «88 %» de la prensa: una reducción relativa frente a la PrEP oral, en mujeres.",
+     "ensayo": "HPTN 084",
+     "fuentes": [
+      8
+     ]
+    },
+    {
+     "texto": "Infecciones por VIH por cada 100 personas y año: 0,41 con cabotegravir frente a 1,22 con el comprimido diario de tenofovir/emtricitabina, en 4.566 hombres que tienen sexo con hombres y mujeres trans; 13 frente a 39 infecciones (reducción relativa del 66 %).",
+     "ensayo": "HPTN 083",
+     "fuentes": [
+      8
+     ]
+    },
+    {
+     "texto": "En términos absolutos, entre los dos ensayos, entre 0,8 y 1,7 infecciones menos por cada 100 personas al año que con el comprimido diario.",
+     "ensayo": "HPTN 083 y HPTN 084",
+     "fuentes": [
+      8
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2025-10-17",
+     "texto": "NICE recomienda cabotegravir en PrEP en Inglaterra (borrador final de su guía), para quien no puede usar la PrEP oral; fuera de la UE y antes que España.",
+     "fuentes": [
+      4
+     ]
+    },
+    {
+     "fecha": "2026-02-25",
+     "texto": "La CIPM acuerda su financiación en España, solo cuando la PrEP oral no es adecuada.",
+     "fuentes": [
+      3
+     ]
+    },
+    {
+     "fecha": "2026-02-26",
+     "texto": "El Ministerio de Sanidad lo anuncia: España es el primer país de la UE en financiar la PrEP inyectable.",
+     "fuentes": [
+      3
+     ]
+    },
+    {
+     "fecha": "2026-04-13",
+     "texto": "Disponible en los hospitales españoles.",
+     "fuentes": [
+      5
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Solo se financia cuando la PrEP oral no es adecuada: contraindicación médica, problemas de adherencia o situaciones que dificultan tomarla cada día.",
+     "fuentes": [
+      3
+     ]
+    },
+    {
+     "texto": "La ventaja frente a la PrEP oral se explica sobre todo porque la inyección no depende de acordarse: en HPTN 083, el 14 % de quienes debían tomar el comprimido no tenía tenofovir en sangre.",
+     "fuentes": [
+      8
+     ]
+    },
+    {
+     "texto": "Infecciones en el brazo de cabotegravir de HPTN 083 y 084 (fase ciega): 20. De ellas, 13 ocurrieron con el fármaco aún presente (menos de 6 meses desde la última inyección); en 12 de esas 13 las pruebas habituales tardaron en detectarla, y 7 tenían resistencia a los inhibidores de la integrasa, la familia del tratamiento habitual (síndrome LEVI).",
+     "fuentes": [
+      13
+     ]
+    },
+    {
+     "texto": "Antes de cada inyección hay que descartar la infección. La prueba de carga viral la recomiendan las guías de EE. UU., no las de Australia, y la OMS lo deja a cada país.",
+     "fuentes": [
+      11
+     ]
+    },
+    {
+     "texto": "En HPTN 083, 3 de los casos con resistencia seguían siendo sensibles a dolutegravir.",
+     "fuentes": [
+      11
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "El informe de posicionamiento terapéutico de la AEMPS (julio de 2024) consideró cabotegravir la opción preferente en PrEP, sobre todo si hay contraindicación a tenofovir o problemas de adherencia; la financiación de 2026 lo limita a cuando la PrEP oral no es adecuada.",
+     "fuentes": [
+      11,
+      3
+     ]
+    },
+    {
+     "texto": "gTt-VIH (13-04-2026) advierte del riesgo de acceso desigual entre comunidades y pide criterios homogéneos.",
+     "fuentes": [
+      12
+     ]
+    }
+   ],
+   "como_leer": "Los dos ensayos compararon cabotegravir con el comprimido diario de tenofovir/emtricitabina, que ya es muy eficaz si se toma bien. Las cifras son infecciones por cada 100 personas y año: cuántas infecciones habría si 100 personas usaran la PrEP durante un año, lo que permite comparar ensayos con seguimientos distintos. El 88 % que citó la prensa es una reducción relativa frente a la PrEP oral y se obtuvo en mujeres del África subsahariana (HPTN 084); en hombres que tienen sexo con hombres y mujeres trans (HPTN 083) fue del 66 %. En absoluto, son entre 0,8 y 1,7 infecciones menos por cada 100 personas al año. Es prevención en personas sin VIH, no tratamiento ni vacuna, y en España se financia solo para quien no puede usar la PrEP oral.",
+   "ultima_hora": false
+  },
+  {
+   "id": "lenacapavir-prep",
+   "dci": "Lenacapavir",
+   "seccion": "Lo que viene",
+   "estado": "autorizado-ue",
+   "estado_texto": "Autorizado en la UE el 25-08-2025; en España, sin precio ni financiación en PrEP a 17-10-2026.",
+   "patologia": "Profilaxis preexposición (PrEP) frente al VIH por vía sexual en adultos y adolescentes de al menos 35 kg.",
+   "mecanismo": "Primer inhibidor de la cápside, la cubierta de proteína que protege el material genético del virus; la bloquea a la entrada y a la salida de la célula.",
+   "via_pauta": "Inyección subcutánea (bajo la piel del abdomen; cada dosis son dos inyecciones) el día 1 y después cada 6 meses, 2 dosis al año; al empezar se toman además comprimidos orales los días 1 y 2.",
+   "datos": [
+    {
+     "texto": "0 infecciones entre 2.134 mujeres de 16 a 25 años de Sudáfrica y Uganda con lenacapavir, frente a 39 de 2.136 con el comprimido diario de emtricitabina/tenofovir alafenamida (y 16 de 1.068 con emtricitabina/tenofovir disoproxilo), en el análisis principal.",
+     "ensayo": "PURPOSE 1",
+     "fuentes": [
+      9
+     ]
+    },
+    {
+     "texto": "En el seguimiento posterior de PURPOSE 1 hubo 2 infecciones en el brazo de lenacapavir.",
+     "ensayo": "PURPOSE 1",
+     "fuentes": [
+      14,
+      27
+     ]
+    },
+    {
+     "texto": "2 infecciones entre 2.179 personas con lenacapavir (0,10 por cada 100 personas y año) frente a 9 de 1.086 con el comprimido diario (0,93), en hombres cis, mujeres trans y personas de género diverso de siete países (análisis principal).",
+     "ensayo": "PURPOSE 2",
+     "fuentes": [
+      10
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2024-05-23",
+     "texto": "La misma molécula, en tratamiento, queda financiada por la CIPM (mayo de 2024) solo para el VIH-1 multirresistente, siempre combinada con otros antirretrovirales, con la misma dosis y vía (subcutánea cada 6 meses).",
+     "fuentes": [
+      29,
+      30
+     ]
+    },
+    {
+     "fecha": "2025-08-25",
+     "texto": "Autorización de la Comisión Europea en PrEP.",
+     "fuentes": [
+      7
+     ]
+    },
+    {
+     "fecha": "2026-10-17",
+     "texto": "En España, sin precio ni financiación en PrEP.",
+     "fuentes": [
+      7
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "En los dos ensayos PURPOSE, contando todo el seguimiento, hubo 5 infecciones nuevas en el brazo de lenacapavir; las 3 de PURPOSE 2 tenían mutaciones de resistencia en la cápside (N74D o Q67H/K70R), según la ficha de la FDA.",
+     "fuentes": [
+      14
+     ]
+    },
+    {
+     "texto": "Esas mutaciones restan actividad a lenacapavir, que también forma parte de la combinación islatravir/lenacapavir.",
+     "fuentes": [
+      14
+     ]
+    }
+   ],
+   "debate": [],
+   "como_leer": "PURPOSE 1 se hizo en mujeres de 16 a 25 años de Sudáfrica y Uganda y comparó lenacapavir con el comprimido diario de emtricitabina/tenofovir alafenamida: 0 infecciones entre 2.134 es el análisis principal, y con más seguimiento hubo 2 infecciones con lenacapavir. PURPOSE 2, en hombres cis, mujeres trans y personas de género diverso de siete países, dio 0,10 frente a 0,93 infecciones por cada 100 personas y año. No es una vacuna: no enseña al sistema inmunitario a defenderse, sino que protege mientras el fármaco está en el cuerpo, y por eso se repite cada 6 meses. En Europa está autorizado, pero en España todavía no se financia en PrEP; la misma molécula ya se dispensa en los hospitales para tratar el VIH-1 multirresistente.",
+   "ultima_hora": false
+  },
+  {
+   "id": "doravirina-islatravir",
+   "dci": "Doravirina/islatravir",
+   "seccion": "Tratamiento diario",
+   "estado": "aprobado-fuera",
+   "estado_texto": "Aprobado por la FDA el 21-04-2026; en evaluación en la EMA (lista de preguntas del día 120, CHMP de septiembre de 2026).",
+   "patologia": "Cambio de tratamiento en adultos con VIH-1 y carga viral suprimida, sin fracaso virológico previo ni resistencia a doravirina.",
+   "mecanismo": "Doravirina, inhibidor no nucleósido de la transcriptasa inversa, más islatravir a dosis baja (0,25 mg), primer inhibidor de la translocación de la transcriptasa inversa; tratamiento completo de dos fármacos sin inhibidor de la integrasa y sin tenofovir.",
+   "via_pauta": "Oral, una toma al día.",
+   "datos": [
+    {
+     "texto": "Carga viral detectable a las 48 semanas: 1 % con doravirina/islatravir frente a 1 % al seguir con bictegravir/emtricitabina/tenofovir alafenamida, en 513 adultos con VIH-1 suprimido que cambiaban desde esa pauta (doble ciego).",
+     "ensayo": "Ensayo 052",
+     "fuentes": [
+      25
+     ]
+    },
+    {
+     "texto": "Carga viral detectable a las 48 semanas: 1 % con doravirina/islatravir frente a 5 % al seguir con el tratamiento previo, en 551 adultos con VIH-1 suprimido (abierto).",
+     "ensayo": "Ensayo 051",
+     "fuentes": [
+      25
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2021-12-13",
+     "texto": "La FDA suspende los ensayos de islatravir por descensos de linfocitos y CD4 con dosis diarias de 0,75 mg o más.",
+     "fuentes": [
+      24,
+      23
+     ]
+    },
+    {
+     "fecha": "2026-04-21",
+     "texto": "Aprobación de la FDA.",
+     "fuentes": [
+      25
+     ]
+    },
+    {
+     "fecha": "2026-09-14",
+     "texto": "En evaluación en la EMA: lista de preguntas del día 120 en el CHMP del 14 al 17 de septiembre de 2026.",
+     "fuentes": [
+      26
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Lleva el mismo islatravir cuyos ensayos se pararon en 2021 por descensos de linfocitos y CD4 con dosis diarias de 0,75 mg o más; esta combinación usa un tercio de esa dosis (0,25 mg).",
+     "fuentes": [
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "texto": "Los dos ensayos son de no inferioridad: demuestran que no es peor que el tratamiento de referencia, no que sea mejor.",
+     "fuentes": [
+      25
+     ]
+    },
+    {
+     "texto": "Las cifras de los ensayos 051 y 052 proceden de la nota de la compañía sobre la aprobación de la FDA.",
+     "fuentes": [
+      25
+     ]
+    }
+   ],
+   "debate": [],
+   "como_leer": "Es una pauta de cambio: se ensayó en personas que ya tenían el virus controlado, para ver si el tratamiento nuevo mantiene ese control, no si controla un virus activo. El ensayo 052 fue doble ciego frente a bictegravir/emtricitabina/tenofovir alafenamida y el 051, abierto frente a seguir con el tratamiento previo; los dos son de no inferioridad, es decir, demuestran que no es peor, no que sea mejor. Lo nuevo es que es el primer tratamiento completo de dos fármacos sin inhibidor de la integrasa y sin tenofovir, una alternativa para quien no los tolera. Lleva islatravir a un tercio de la dosis (0,25 mg) con la que hubo que frenar sus ensayos en 2021.",
+   "ultima_hora": false
+  },
+  {
+   "id": "islatravir-lenacapavir",
+   "dci": "Islatravir/lenacapavir",
+   "seccion": "Tratamiento semanal (en investigación)",
+   "estado": "en-investigacion",
+   "estado_texto": "No aprobado en ningún país; resultados principales de fase 3 (48 semanas) presentados en julio de 2026; no consta solicitud presentada y las compañías preparan las solicitudes.",
+   "patologia": "En investigación: cambio de tratamiento en adultos con VIH-1 y carga viral suprimida.",
+   "mecanismo": "Islatravir, inhibidor de la translocación de la transcriptasa inversa, más lenacapavir, inhibidor de la cápside; dos fármacos de familias nuevas, sin inhibidor de la integrasa y sin tenofovir.",
+   "via_pauta": "Oral, una toma a la semana (islatravir 2 mg y lenacapavir 300 mg).",
+   "datos": [
+    {
+     "texto": "Carga viral detectable a las 48 semanas: 0 % con islatravir/lenacapavir semanal frente a 0,3 % (1 persona) con bictegravir/emtricitabina/tenofovir alafenamida diario, en 607 adultos con VIH-1 suprimido (doble ciego).",
+     "ensayo": "ISLEND-1",
+     "fuentes": [
+      22,
+      23
+     ]
+    },
+    {
+     "texto": "Carga viral detectable a las 48 semanas: 0,3 % con islatravir/lenacapavir semanal frente a 1,3 % al seguir con el tratamiento diario previo, en 624 adultos con VIH-1 suprimido (abierto).",
+     "ensayo": "ISLEND-2",
+     "fuentes": [
+      22,
+      23
+     ]
+    },
+    {
+     "texto": "Cambio medio de CD4 a las 48 semanas: −10 células/µL con islatravir/lenacapavir (islatravir 2 mg semanal) frente a −18 con bictegravir/emtricitabina/tenofovir alafenamida, sin diferencia significativa; nadie abandonó por descenso de linfocitos o CD4.",
+     "ensayo": "ISLEND-1",
+     "fuentes": [
+      23
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2021-12-13",
+     "texto": "La FDA suspende los ensayos de islatravir por descensos de linfocitos y CD4 con dosis diarias de 0,75 mg o más; se rediseñó con dosis más bajas.",
+     "fuentes": [
+      24,
+      23
+     ]
+    },
+    {
+     "fecha": "2026-07-21",
+     "texto": "Datos de los ensayos ISLEND presentados en AIDS 2026; las compañías preparan las solicitudes.",
+     "fuentes": [
+      22
+     ]
+    },
+    {
+     "fecha": "2026-07-29",
+     "texto": "Publicación de ISLEND-1 en NEJM.",
+     "fuentes": [
+      23
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Es una pauta de cambio para personas ya controladas, no para empezar el tratamiento, y es no inferior, no superior, al tratamiento oral diario.",
+     "fuentes": [
+      22
+     ]
+    },
+    {
+     "texto": "El antecedente de descenso de linfocitos y CD4 con islatravir explica que se vigilen los CD4 en estos ensayos.",
+     "fuentes": [
+      23,
+      24
+     ]
+    },
+    {
+     "texto": "Las mutaciones de resistencia en la cápside halladas en las infecciones de PURPOSE 2 con lenacapavir en PrEP (N74D o Q67H/K70R) restan actividad a lenacapavir, que forma parte de esta combinación.",
+     "fuentes": [
+      14
+     ]
+    }
+   ],
+   "debate": [],
+   "como_leer": "Es un tratamiento oral de una toma a la semana con dos fármacos de familias nuevas, ensayada como pauta de cambio en personas que ya tenían el virus controlado. ISLEND-1 fue doble ciego frente a bictegravir/emtricitabina/tenofovir alafenamida, el comprimido diario más usado, e ISLEND-2 fue abierto frente a seguir con el tratamiento diario; los dos demuestran no inferioridad: mantiene el control igual que el tratamiento oral diario. «Carga viral detectable» significa 50 copias/mL o más en la ventana de la semana 48, y quien no tiene dato cuenta como «sin dato», no como fracaso. El descenso de linfocitos y CD4 que frenó islatravir en 2021 no apareció con la dosis nueva: el CD4 bajó de media 10 células/µL frente a 18 con el comprimido de referencia y nadie dejó el tratamiento por ese motivo.",
+   "ultima_hora": false
+  },
+  {
+   "id": "cabotegravir-rilpivirina-4m",
+   "dci": "Cabotegravir/rilpivirina (cada 4 meses)",
+   "seccion": "En investigación",
+   "estado": "en-investigacion",
+   "estado_texto": "Pauta cada 4 meses no aprobada en ningún país ni con solicitud presentada a 17-10-2026; ensayo de fase 3 CUATRO en marcha.",
+   "patologia": "Tratamiento de la infección por VIH-1 (pauta cada 4 meses, en investigación).",
+   "mecanismo": "Cabotegravir, inhibidor de la integrasa, más rilpivirina, inhibidor no nucleósido de la transcriptasa inversa; nueva formulación más concentrada de cabotegravir (1.600 mg en 3 mL, frente a 600 mg en 3 mL de la actual) que mantiene niveles suficientes al menos 4 meses.",
+   "via_pauta": "Inyección cada 4 meses: 3 al año en lugar de las 6 de la pauta actual cada 2 meses.",
+   "datos": [
+    {
+     "texto": "Ensayo de fase 3 en tratamiento con la pauta cada 4 meses en marcha; la compañía prevé los resultados en la segunda mitad de 2027 (previsión, no hito cumplido).",
+     "ensayo": "CUATRO",
+     "fuentes": [
+      21
+     ]
+    },
+    {
+     "texto": "Con la pauta actual cada 2 meses, en 326 personas de ocho países que tenían el virus detectable (más de 1.000 copias/mL) pese al tratamiento oral y sin resistencia conocida a inhibidores de la integrasa ni a no nucleósidos: a los 6 meses, más pacientes tenían el virus indetectable con el inyectable que siguiendo con el tratamiento oral (superioridad); aún no hay porcentajes publicados. 24 de los 85 centros del ensayo están en España.",
+     "ensayo": "CROWN",
+     "fuentes": [
+      17,
+      18
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2026-10-06",
+     "texto": "Pauta cada 2 meses: el ensayo CROWN alcanza superioridad frente a la pauta oral en personas con viremia.",
+     "fuentes": [
+      17
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "La pauta cada 4 meses no está aprobada en ningún país; las fechas disponibles son previsiones de la compañía.",
+     "fuentes": [
+      19,
+      21
+     ]
+    }
+   ],
+   "debate": [],
+   "como_leer": "Es una formulación nueva y más concentrada de cabotegravir (1.600 mg en 3 mL, frente a 600 mg en 3 mL de la actual) que mantiene niveles suficientes al menos 4 meses: tres inyecciones al año en lugar de seis. En tratamiento se combina con rilpivirina y se está probando en el ensayo de fase 3 CUATRO, con resultados previstos en la segunda mitad de 2027. No está aprobada en ningún país, y las fechas son previsiones de la compañía, no hitos cumplidos. La pauta actual cada 2 meses se aprobó para personas que ya tienen la carga viral suprimida con tratamiento oral; en octubre de 2026, el ensayo CROWN ha mostrado que funciona mejor que el tratamiento oral en personas con el virus detectable pese al tratamiento oral.",
+   "ultima_hora": false
+  },
+  {
+   "id": "cabotegravir-prep-4m",
+   "dci": "Cabotegravir (PrEP cada 4 meses)",
+   "seccion": "En investigación",
+   "estado": "en-investigacion",
+   "estado_texto": "Formulación cada 4 meses en prevención no aprobada en ningún país; la compañía prevé pedir la aprobación a la FDA en el 2.º semestre de 2026, pero no consta solicitud presentada a 17-10-2026.",
+   "patologia": "Profilaxis preexposición (PrEP) frente al VIH (formulación cada 4 meses, en investigación).",
+   "mecanismo": "Inhibidor de la integrasa; nueva formulación más concentrada de cabotegravir (1.600 mg en 3 mL, frente a 600 mg en 3 mL de la actual) que mantiene niveles suficientes al menos 4 meses.",
+   "via_pauta": "Inyección cada 4 meses: 3 al año en lugar de 6.",
+   "datos": [
+    {
+     "texto": "Ensayo de registro (fase 2b) en prevención con cabotegravir cada 4 meses: 229 participantes de 16 años o más en 27 centros de EE. UU., en marcha desde diciembre de 2024; mide niveles en sangre, seguridad y tolerabilidad.",
+     "ensayo": "EXTEND 4M",
+     "fuentes": [
+      20,
+      31
+     ]
+    },
+    {
+     "texto": "Según el Medicines Patent Pool, la FDA aceptó que la aprobación en prevención se base en estudios de niveles en sangre que enlazan con cabotegravir cada 2 meses, sin ensayo de eficacia nuevo.",
+     "ensayo": "",
+     "fuentes": [
+      31
+     ]
+    }
+   ],
+   "situacion": [],
+   "seguridad_y_limites": [
+    {
+     "texto": "Las fechas (solicitud a la FDA en el 2.º semestre de 2026 y decisión en el 1.er semestre de 2027) son previsiones de la compañía, no hitos cumplidos; la FDA no publica las solicitudes en trámite.",
+     "fuentes": [
+      21
+     ]
+    }
+   ],
+   "debate": [],
+   "como_leer": "Es la misma formulación nueva de cabotegravir (1.600 mg en 3 mL), sola, en prevención: tres inyecciones al año en lugar de seis. Su ensayo pivotal es EXTEND 4M, con 229 personas en 27 centros de EE. UU. La compañía prevé pedir la aprobación a la FDA en la segunda mitad de 2026 y tener decisión en la primera mitad de 2027; son previsiones, y no consta que la solicitud se haya presentado. No está aprobada en ningún país.",
+   "ultima_hora": false
+  }
+ ],
+ "ultima_hora": [
+  {
+   "fecha": "2026-10-06",
+   "texto": "Cabotegravir/rilpivirina cada 2 meses: el ensayo CROWN alcanza su variable principal, con superioridad en supresión viral frente al tratamiento oral diario en 326 personas de ocho países con el virus detectable pese al tratamiento oral; aún sin porcentajes publicados. 24 de sus 85 centros están en España (publicado el 08-10-2026).",
+   "fuentes": [
+    17,
+    18
+   ]
+  }
+ ],
+ "grupo_aporta": [
+  "Da por buenas como novedades del año lenacapavir semestral en profilaxis preexposición (PrEP), islatravir/lenacapavir oral semanal y doravirina/islatravir.",
+  "Añade una cuarta: cabotegravir/rilpivirina cada 4 meses, tres inyecciones al año en lugar de las seis actuales, todavía sin aprobar.",
+  "Hilo conductor del año: la acción prolongada, en prevención y en tratamiento, con tres moléculas que compiten por espaciar las tomas (cabotegravir, lenacapavir e islatravir).",
+  "Tomas al año en prevención: PrEP oral diaria (365), cabotegravir cada 2 meses (6; financiado en España) y lenacapavir cada 6 meses (2; autorizado en la UE, sin financiar en PrEP). En tratamiento: comprimido diario (365; doravirina/islatravir, aprobado en EE. UU.) e islatravir/lenacapavir semanal (52; fase 3 completada, sin solicitud)."
+ ],
+ "fuentes": [
+  {
+   "n": 1,
+   "texto": "Público, 26-02-2026, «España es el primer país europeo en financiar el PrEP, un tratamiento inyectable para VIH»",
+   "url": "https://www.publico.es/sociedad/sanidad/espana-primer-pais-europeo-financiar-prep-tratamiento-inyectable-vih.html"
+  },
+  {
+   "n": 2,
+   "texto": "EMA, EPAR de cabotegravir en PrEP (indicación, pauta, mecanismo)",
+   "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/apretude"
+  },
+  {
+   "n": 3,
+   "texto": "Ministerio de Sanidad, nota de prensa del 26-02-2026 (primer país de la UE; solo cuando la PrEP oral no es adecuada)",
+   "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6860"
+  },
+  {
+   "n": 4,
+   "texto": "NICE, 17-10-2025, recomendación de cabotegravir PrEP en Inglaterra",
+   "url": "https://www.nice.org.uk/news/articles/first-hiv-prevention-injection-for-people-unable-to-have-daily-prep-recommended"
+  },
+  {
+   "n": 5,
+   "texto": "Infosalus (Europa Press), 13-04-2026, disponibilidad de cabotegravir PrEP en los hospitales",
+   "url": "https://www.infosalus.com/farmacia/noticia-viiv-healthcare-anuncia-financiacion-espana-apretude-prep-inyectable-cada-dos-meses-frente-vih-20260413113748.html"
+  },
+  {
+   "n": 6,
+   "texto": "Hoy Aragón, 13-04-2026, «Paso histórico contra el VIH…»",
+   "url": "https://www.hoyaragon.es/espana/paso-historico-vih-llega-primera-prep-inyectable-cada-dos-meses-financiada-sanidad-publica/20260413153533127447.html"
+  },
+  {
+   "n": 7,
+   "texto": "EMA, EPAR de lenacapavir en PrEP (autorización UE 25-08-2025, indicación, pauta)",
+   "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yeytuo"
+  },
+  {
+   "n": 8,
+   "texto": "ICAP Columbia, resúmenes de HPTN 083 (NEJM 2021) y HPTN 084 (Lancet 2022). HPTN 084: https://icap.columbia.edu/tools_resources/may-june-2022-cabotegravir-for-the-prevention-of-hiv-1-in-women-results-from-hptn-084-a-phase-3-randomised-clinical-trial/",
+   "url": "https://icap.columbia.edu/tools_resources/september-2021-hptn-083-trial-results-comparing-efficacy-of-cabotegravir-to-daily-oral-tdf-ftc-for-prep-in-cisgender-men-and-transgender-women/"
+  },
+  {
+   "n": 9,
+   "texto": "Drug Topics, PURPOSE 1 (Bekker et al., NEJM 2024;391:1179-92)",
+   "url": "https://drugtopics.com/view/lenacapavir-for-prep-shows-100-efficacy-in-preventing-hiv"
+  },
+  {
+   "n": 10,
+   "texto": "Gilead, datos de PURPOSE 2 (07-10-2024)",
+   "url": "https://www.gilead.com/news/news-details/2024/gilead-presents-additional-efficacy-safety-and-demographic-data-from-purpose-2-trial-at-5th-hiv-research-for-prevention-conference"
+  },
+  {
+   "n": 11,
+   "texto": "AEMPS, IPT-288 de cabotegravir en PrEP, 04-07-2024 (opción preferente; pruebas según cada país; resistencias en HPTN 083; sensibilidad a dolutegravir)",
+   "url": "https://www.aemps.gob.es/medicamentosUsoHumano/informesPublicos/docs/2024/IPT-288-Apretude-cabotegravir.pdf"
+  },
+  {
+   "n": 12,
+   "texto": "gTt-VIH, 13-04-2026, «La PrEP inyectable obliga a pensar en equidad, no solo en innovación»",
+   "url": "https://www.gtt-vih.org/publicaciones/la-noticia-del-dia/13-04-26/"
+  },
+  {
+   "n": 13,
+   "texto": "Eshleman et al., «The LEVI syndrome», CROI 2023, resumen 160 (20 infecciones, 13 con exposición reciente, 12 con retraso diagnóstico, 7 con resistencia)",
+   "url": "https://www.croiconference.org/abstract/the-levi-syndrome-characteristics-of-early-hiv-infection-with-cabotegravir-for-prep"
+  },
+  {
+   "n": 14,
+   "texto": "Ficha de la FDA de lenacapavir en PrEP, sección de resistencias (5 infecciones incidentes; las 3 de PURPOSE 2 con N74D o Q67H/K70R)",
+   "url": "https://medlibrary.org/lib/rx/meds/yeztugo-1/page/5/"
+  },
+  {
+   "n": 15,
+   "texto": "AEMPS, IPT-086-2023 de cabotegravir con rilpivirina",
+   "url": "https://www.aemps.gob.es/medicamentosUsoHumano/informesPublicos/docs/2023/IPT-086-2023-Vocabria.pdf"
+  },
+  {
+   "n": 16,
+   "texto": "Rana et al., LATITUDE (ACTG A5359), NEJM, 18-02-2026, DOI 10.1056/NEJMoa2508228, copia en NATAP",
+   "url": "https://www.natap.org/2026/HIV/NEJMoa2508228.pdf"
+  },
+  {
+   "n": 17,
+   "texto": "GSK/ViiV, 06-10-2026, CROWN alcanza superioridad frente a la pauta oral en personas con viremia",
+   "url": "https://www.gsk.com/en-gb/media/press-releases/viiv-healthcare-s-long-acting-hiv-treatment-cabenuva-cabotegravir-plus-rilpivirine-meets-primary-endpoint-of-superior-viral-suppression-vs-daily-oral-therapy-in-people-with-viremia/"
+  },
+  {
+   "n": 18,
+   "texto": "Vademecum, 08-10-2026, CROWN (24 de los 85 centros en España)",
+   "url": "https://www.vademecum.es/noticia-261008-El+tratamiento+inyectable+seis+veces+al+a+ntilde+o+demuestra+superioridad+frente+al+oral+diario+en+personas+con+VIH+en+tratamiento+previo+y+con+carga+viral+detectable_1466019"
+  },
+  {
+   "n": 19,
+   "texto": "LAPaL, ficha de cabotegravir cada 4 meses (formulación, no aprobado en ningún país)",
+   "url": "https://lapal.ch/formulations/cabotegravir-4-monthly-q4m"
+  },
+  {
+   "n": 20,
+   "texto": "GSK/ViiV, 29-07-2026, datos en AIDS 2026 (EXTEND 4M, 229 participantes en 27 centros; LATA; CLARITY)",
+   "url": "https://www.gsk.com/en-gb/media/press-releases/cabenuva-demonstrates-superiority-to-daily-oral-therapy-in-adolescents-living-with-hiv-as-viiv-healthcare-highlights-new-long-acting-injectable-data-at-aids-2026/"
+  },
+  {
+   "n": 21,
+   "texto": "GSK, resultados del 2.º trimestre de 2026, hitos previstos (cabotegravir 3 veces al año en prevención y CUATRO en tratamiento)",
+   "url": "https://www.gsk.com/media/jayh41pz/q2-2026-results-announcement.pdf"
+  },
+  {
+   "n": 22,
+   "texto": "Merck, 21-07-2026, datos de ISLEND en AIDS 2026",
+   "url": "https://www.merck.com/news/investigational-once-weekly-oral-hiv-treatment-regimen-of-islatravir-and-lenacapavir-maintained-virological-suppression-in-adults-with-hiv-who-switched-antiretroviral-therapy/"
+  },
+  {
+   "n": 23,
+   "texto": "Rockstroh et al., NEJM, 29-07-2026 (ISLEND-1), DOI 10.1056/NEJMoa2607973, copia en NATAP (dosis, CD4, linfocitos, autores)",
+   "url": "https://www.natap.org/2026/IAS/NEJMoa26079732.pdf"
+  },
+  {
+   "n": 24,
+   "texto": "Merck, 13-12-2021, suspensión clínica de los ensayos de islatravir por la FDA",
+   "url": "https://www.merck.com/?p=3318176"
+  },
+  {
+   "n": 25,
+   "texto": "Merck, 21-04-2026, aprobación FDA de doravirina/islatravir",
+   "url": "https://www.merck.com/news/fda-approves-mercks-once-daily-idvynso-doravirine-islatravir/"
+  },
+  {
+   "n": 26,
+   "texto": "EMA, agenda del CHMP del 14 al 17-09-2026 (doravirina/islatravir en evaluación)",
+   "url": "https://www.ema.europa.eu/en/documents/agenda/agenda-chmp-meeting-14-17-september-2026_en.pdf"
+  },
+  {
+   "n": 27,
+   "texto": "i-Base, CROI 2026, actualización de PURPOSE 1 y 2",
+   "url": "https://i-base.info/htb/53731"
+  },
+  {
+   "n": 28,
+   "texto": "EATG, EACS 2025, estudio CLARITY",
+   "url": "https://www.eatg.org/hiv-news/eacs-2025-are-cabotegravir-injections-more-tolerable-than-lenacapavir/"
+  },
+  {
+   "n": 29,
+   "texto": "diariofarma, 23-05-2024, la CIPM aprueba la financiación de lenacapavir para VIH-1 multirresistente",
+   "url": "https://diariofarma.com/2024/05/23/la-cipm-aprueba-la-financiacion-de-sulenca-indicado-para-vih-1-multirresistente"
+  },
+  {
+   "n": 30,
+   "texto": "gTt-VIH, 03-06-2024, España financia lenacapavir en tratamiento",
+   "url": "https://www.gtt-vih.org/publicaciones/la-noticia-del-dia/03-06-24/"
+  },
+  {
+   "n": 31,
+   "texto": "Medicines Patent Pool, ficha de cabotegravir cada 4 meses (EXTEND 4M desde diciembre de 2024; estrategia de registro aceptada por la FDA; sin solicitud ni aprobación)",
+   "url": "https://medicinespatentpool.org/medicines/ula-cabotegravir-4m"
+  }
+ ]
+}

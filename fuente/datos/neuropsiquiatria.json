@@ -1,0 +1,798 @@
+{
+ "id": "neuropsiquiatria",
+ "area": "Neuropsiquiatría",
+ "grupo": "NEUROPSIQUIATRÍA",
+ "grupo_nombre": "Grupo de Trabajo de Farmacia Neuropsiquiátrica",
+ "resumen": "Entre octubre de 2025 y septiembre de 2026, ninguna de las notas informativas de la CIPM incluyó en España un psicofármaco con principio activo nuevo ni una indicación nueva en un trastorno mental. El área recoge la psilocibina en depresión resistente (solicitud ante la FDA en curso), la xanomelina/trospio en esquizofrenia (aprobada en EE. UU. y China, sin solicitud pública en la UE) y la zuranolona en depresión posparto (autorizada en la UE, no comercializada en España).",
+ "prensa": [
+  {
+   "titular": "El futuro ha llegado: científicos del Reino Unido, muy cerca de aprobar un hongo como tratamiento contra la depresión",
+   "medio": "OKdiario",
+   "fecha": "2026-05-20",
+   "url": "https://okdiario.com/ciencia/futuro-llegado-cientificos-del-reino-unido-muy-cerca-aprobar-hongo-como-tratamiento-contra-depresion-16806743",
+   "evidencia": [
+    "No es un hongo: es psilocibina sintética (COMP360, Compass Pathways).",
+    "La solicitud de autorización está en curso en la FDA de EE. UU.; en la UE y en el Reino Unido no se ha pedido.",
+    "En los dos ensayos de fase 3 en depresión resistente, la mejora en la MADRS (escala de 0 a 60) a las 6 semanas fue de 3,8 puntos más que con dos dosis de 1 mg (COMP006) y de 3,6 puntos más que con placebo (COMP005).",
+    "El 39 % de COMP006 son pacientes que redujeron su MADRS al menos un 25 % en la semana 6, no respuesta (≥ 50 %) ni remisión."
+   ],
+   "fuentes": [
+    2,
+    3,
+    4,
+    7,
+    8,
+    9
+   ]
+  }
+ ],
+ "farmacos": [
+  {
+   "id": "psilocibina-depresion-resistente",
+   "dci": "Psilocibina",
+   "seccion": "Lo que viene",
+   "estado": "en-investigacion",
+   "estado_texto": "Psilocibina sintética sin autorización de comercialización: en EE. UU., solicitud a la FDA entregada por partes desde abril de 2026, que la compañía anunció el 14-10-2026 que completará este trimestre; sin solicitud en la UE ni en el Reino Unido. En España es un psicotrópico de la Lista I del Convenio de 1971.",
+   "patologia": "Depresión resistente en adultos (indicación en estudio).",
+   "mecanismo": "Agonista del receptor de serotonina 5-HT2A; produce una experiencia psicodélica de varias horas.",
+   "via_pauta": "Oral; una o dos tomas de 25 mg (en COMP006, dos dosis separadas 3 semanas), cada una en una sesión vigilada de al menos 6 horas.",
+   "datos": [
+    {
+     "texto": "MADRS (escala de depresión de 0 a 60) a las 6 semanas en adultos con depresión resistente: 3,8 puntos más de mejora con dos dosis de 25 mg que con dos dosis de 1 mg (581 pacientes).",
+     "ensayo": "COMP006",
+     "fuentes": [
+      3
+     ]
+    },
+    {
+     "texto": "MADRS a las 6 semanas en adultos con depresión resistente: 3,6 puntos más de mejora con una dosis única de 25 mg que con placebo (258 pacientes).",
+     "ensayo": "COMP005",
+     "fuentes": [
+      4
+     ]
+    },
+    {
+     "texto": "El 39 % de los pacientes con 25 mg en COMP006 redujo su MADRS al menos un 25 % en la semana 6 (el 25 % con una sola dosis en COMP005): es respuesta parcial o más, no respuesta (reducción ≥ 50 %) ni remisión. La compañía no ha dado esa cifra en el grupo control.",
+     "ensayo": "COMP006",
+     "fuentes": [
+      3,
+      9
+     ]
+    },
+    {
+     "texto": "Referencia en depresión resistente: en el tercer y cuarto escalón de tratamiento del estudio STAR*D respondió el 16-17 % de los pacientes y remitió el 13-14 %.",
+     "ensayo": "STAR*D",
+     "fuentes": [
+      10
+     ]
+    },
+    {
+     "texto": "Comparador de referencia en depresión resistente, la esketamina nasal (financiada en España): −4,0 puntos de MADRS a los 28 días frente a un placebo nasal, con los dos grupos iniciando un antidepresivo oral nuevo (223 pacientes). No hay comparación directa con la psilocibina.",
+     "ensayo": "TRANSFORM-2",
+     "fuentes": [
+      5,
+      11
+     ]
+    },
+    {
+     "texto": "Visitas: la esketamina nasal se administra en el centro dos veces por semana el primer mes, una por semana el segundo y después cada una o dos semanas, durante al menos 6 meses; la psilocibina, en una o dos sesiones vigiladas de al menos 6 horas.",
+     "ensayo": "",
+     "fuentes": [
+      5,
+      12
+     ]
+    },
+    {
+     "texto": "Retratamiento: entre las semanas 6 y 26 de COMP005, todavía a ciegas, el 70 % de los pacientes con 25 mg y el 53 % con placebo recibieron una segunda administración.",
+     "ensayo": "COMP005",
+     "fuentes": [
+      5
+     ]
+    },
+    {
+     "texto": "En la fase abierta de COMP005 (semanas 26 a 52), sin grupo control, cerca del 80 % de los 90 pacientes del brazo de 25 mg que entraron recibió otra dosis.",
+     "ensayo": "COMP005",
+     "fuentes": [
+      18
+     ]
+    },
+    {
+     "texto": "Ensayo independiente alemán en 144 pacientes con depresión resistente (JAMA Psychiatry, marzo de 2026): no alcanzó su variable principal; respuesta a las 6 semanas del 17,0 % con 25 mg frente al 10,6 % con placebo.",
+     "ensayo": "EPIsoDE",
+     "fuentes": [
+      14
+     ]
+    },
+    {
+     "texto": "Comparación indirecta con datos de fase 2b: número de pacientes que hay que tratar para que uno responda de 5 con psilocibina y 7 con esketamina; no incluye los ensayos de fase 3.",
+     "ensayo": "",
+     "fuentes": [
+      47
+     ]
+    },
+    {
+     "texto": "Según un análisis posterior difundido por la compañía (J Psychopharmacol, julio de 2026), el profesional presente en la sesión vigila y acompaña, pero no hace psicoterapia: el 78 % de la sesión transcurre en silencio.",
+     "ensayo": "",
+     "fuentes": [
+      43
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2026-01-07",
+     "texto": "La FDA acepta la solicitud de investigación (IND) de la compañía en trastorno de estrés postraumático (ensayo COMP202, unos 300 pacientes).",
+     "fuentes": [
+      17
+     ]
+    },
+    {
+     "fecha": "2026-04-24",
+     "texto": "Compass anuncia que la FDA le concede la entrega por partes de la solicitud de autorización y un bono de revisión prioritaria.",
+     "fuentes": [
+      7
+     ]
+    },
+    {
+     "fecha": "2026-10-14",
+     "texto": "La compañía anuncia que completará la solicitud a la FDA este trimestre y prevé el lanzamiento a principios de 2027 (anuncio de la compañía, no hito regulatorio). Sin solicitud en la UE ni en el Reino Unido.",
+     "fuentes": [
+      8
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Seguridad en COMP006 a 26 semanas: acontecimientos adversos graves en el 5,7 % con 25 mg y el 6,3 % con 1 mg; con 25 mg, náuseas en el 45 % y aumento de la tensión arterial en el 12 %, casi siempre el día de la toma. El comité de seguridad no vio más riesgo de suicidio.",
+     "fuentes": [
+      6
+     ]
+    },
+    {
+     "texto": "Ninguno de los dos ensayos de fase 3 (COMP005 y COMP006) está publicado aún en revista; las cifras salen de la compañía.",
+     "fuentes": [
+      3,
+      4
+     ]
+    },
+    {
+     "texto": "No hay ensayo que compare la psilocibina con la esketamina.",
+     "fuentes": [
+      5
+     ]
+    },
+    {
+     "texto": "No hay datos del subgrupo con trastorno de estrés postraumático en COMP005 ni COMP006; el ensayo en ese trastorno (COMP202, unos 300 pacientes) empezó tras la aceptación de la FDA del 07-01-2026, sin fecha de resultados.",
+     "fuentes": [
+      17
+     ]
+    },
+    {
+     "texto": "Requiere administración en el hospital con observación directa durante horas, personal formado y custodia de un psicotrópico de la Lista I.",
+     "fuentes": [
+      5,
+      8
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "Mantenimiento del ciego: una revisión de 112 ensayos con psicodélicos (JAMA Psychiatry, abril de 2026) encontró que solo el 29,5 % comprobó si el ciego se mantenía y que, con psilocibina, pacientes y evaluadores aciertan qué recibieron en más del 90 % de los casos. Compass no ha publicado si el ciego se mantuvo en sus ensayos.",
+     "fuentes": [
+      15
+     ]
+    },
+    {
+     "texto": "La guía definitiva de la FDA sobre ensayos con psicodélicos (julio de 2026) cita el mantenimiento del ciego como el problema central de estos ensayos; por ese motivo la FDA rechazó en 2024 el MDMA para el trastorno de estrés postraumático.",
+     "fuentes": [
+      16
+     ]
+    }
+   ],
+   "como_leer": "La MADRS es una escala de depresión de 0 a 60 puntos que puntúa un evaluador: más puntos indican más síntomas. En los dos ensayos de fase 3 la mejora frente al control fue de unos 4 puntos: en COMP005, una dosis de 25 mg frente a placebo, y en COMP006, dos dosis de 25 mg frente a dos de 1 mg, una dosis tan baja que casi no tiene efecto y que busca que el paciente no sepa con seguridad qué ha tomado. El 39 % que salió en prensa no es la tasa de respuesta (que exige bajar la puntuación al menos a la mitad), sino el porcentaje de pacientes que mejoró al menos una cuarta parte; en depresión resistente, donde la probabilidad de mejorar baja con cada intento, esa mejoría ya es relevante. Con la esketamina nasal el tamaño del efecto frente al control es parecido, unos 4 puntos, pero en ensayos distintos y nunca comparados entre sí, así que no se puede decir que una sea mejor que la otra; lo que cambia es la organización: pocas sesiones largas frente a muchas visitas cortas.",
+   "ultima_hora": false
+  },
+  {
+   "id": "xanomelina-trospio",
+   "dci": "Xanomelina/trospio",
+   "seccion": "Lo que no llega",
+   "estado": "aprobado-fuera",
+   "estado_texto": "Aprobado por la FDA el 26-09-2024 y en China el 23-12-2025; sin solicitud pública en la UE; en el Reino Unido, NICE lo evalúa sin autorización británica. En España, no autorizado.",
+   "patologia": "Esquizofrenia en adultos (indicación en EE. UU.).",
+   "mecanismo": "La xanomelina estimula los receptores muscarínicos M1 y M4 del cerebro, que regulan la dopamina de forma indirecta; el trospio bloquea esos receptores fuera del cerebro para frenar los efectos colinérgicos. Es el primer fármaco de una vía terapéutica nueva, sin bloqueo del receptor D2 de la dopamina.",
+   "via_pauta": "Oral, cápsula con las dos moléculas, dos veces al día, una hora antes o dos horas después de comer.",
+   "datos": [
+    {
+     "texto": "PANSS (escala de síntomas de 30 a 210) a las 5 semanas en adultos hospitalizados por una reagudización: −21,2 puntos con el fármaco frente a −11,6 con placebo (252 pacientes).",
+     "ensayo": "EMERGENT-2",
+     "fuentes": [
+      20
+     ]
+    },
+    {
+     "texto": "PANSS a las 5 semanas en adultos hospitalizados por una reagudización: −20,6 puntos con el fármaco frente a −12,2 con placebo (256 pacientes).",
+     "ensayo": "EMERGENT-3",
+     "fuentes": [
+      21
+     ]
+    },
+    {
+     "texto": "Abandonos en EMERGENT-3: 36,8 % con el fármaco frente a 29,0 % con placebo; por efectos adversos, 6,4 % frente a 5,5 %.",
+     "ensayo": "EMERGENT-3",
+     "fuentes": [
+      21
+     ]
+    },
+    {
+     "texto": "Estudio abierto de 52 semanas en 566 pacientes: lo completó el 48,9 % (277 de 566).",
+     "ensayo": "EMERGENT-5",
+     "fuentes": [
+      22
+     ]
+    },
+    {
+     "texto": "Añadido a otro antipsicótico en 396 pacientes con control insuficiente, durante 6 semanas: −14,3 frente a −12,2 puntos de PANSS con placebo, diferencia no significativa (p = 0,11).",
+     "ensayo": "ARISE",
+     "fuentes": [
+      23
+     ]
+    },
+    {
+     "texto": "En la práctica en EE. UU., el 49 % de 2.613 pacientes que lo empezaron tomaba ya 3 o más antipsicóticos (base de reclamaciones; póster financiado por la compañía, sin revisión por pares).",
+     "ensayo": "",
+     "fuentes": [
+      26
+     ]
+    },
+    {
+     "texto": "Síntomas negativos y cognitivos: sin ensayo específico; solo análisis posteriores de EMERGENT con mejoría en el subgrupo con deterioro cognitivo.",
+     "ensayo": "EMERGENT",
+     "fuentes": [
+      51,
+      52
+     ]
+    },
+    {
+     "texto": "Peso a las 5 semanas: subió en los dos grupos, +1,4 kg con el fármaco y +1,9 kg con placebo; aumento de peso de al menos un 7 % en el 5,3 % frente al 11,4 % con placebo (datos agrupados).",
+     "ensayo": "EMERGENT-1/2/3",
+     "fuentes": [
+      30
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2024-09-26",
+     "texto": "Aprobación de la FDA en esquizofrenia en adultos.",
+     "fuentes": [
+      19
+     ]
+    },
+    {
+     "fecha": "2025-12-23",
+     "texto": "Aprobación en China.",
+     "fuentes": [
+      27
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Síntomas extrapiramidales en el 3,2 % frente al 0,9 % con placebo y acatisia en el 2,4 % frente al 0,9 % (datos agrupados a 5 semanas): poco frecuentes, no inexistentes.",
+     "fuentes": [
+      30
+     ]
+    },
+    {
+     "texto": "Efectos colinérgicos: náuseas en el 19 % frente al 4 % con placebo, estreñimiento en el 17 % frente al 7 % y vómitos en el 15 % frente al 1 %.",
+     "fuentes": [
+      46
+     ]
+    },
+    {
+     "texto": "Contraindicado en la retención urinaria y en la insuficiencia hepática moderada o grave.",
+     "fuentes": [
+      46
+     ]
+    },
+    {
+     "texto": "Sin ensayos en esquizofrenia resistente ni en otras comorbilidades psiquiátricas; tampoco hay comparación directa con otros antipsicóticos.",
+     "fuentes": [
+      24,
+      25
+     ]
+    },
+    {
+     "texto": "Eficacia demostrada solo en monoterapia: como añadido a otro antipsicótico no demostró beneficio (ARISE).",
+     "fuentes": [
+      23
+     ]
+    },
+    {
+     "texto": "Desarrollo en psicosis del alzhéimer (programa ADEPT): en diciembre de 2025 la compañía encontró irregularidades en algunos centros de ADEPT-2 y excluyó sus datos; en julio de 2026 volvió a retrasar los resultados, aplazados a 2027.",
+     "fuentes": [
+      29
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "El ICER, agencia independiente de evaluación de EE. UU., consideró en 2024 insuficiente la evidencia de beneficio frente al aripiprazol.",
+     "fuentes": [
+      24
+     ]
+    },
+    {
+     "texto": "En diciembre de 2025 la FDA envió a la compañía una carta por un anuncio de televisión que sugería eficacia en síntomas negativos y en pacientes refractarios, poblaciones no estudiadas.",
+     "fuentes": [
+      25
+     ]
+    }
+   ],
+   "como_leer": "La PANSS mide los síntomas de la esquizofrenia en una escala de 30 a 210 puntos, con síntomas positivos, negativos y generales. En EMERGENT-2 y EMERGENT-3, con adultos ingresados por una reagudización, la puntuación bajó unos 21 puntos con el fármaco y unos 12 con placebo en 5 semanas: unos 8 a 10 puntos de diferencia. No es el primer antipsicótico nuevo en 30 años, sino el primero que no bloquea el receptor D2 de la dopamina. Como añadido a otro antipsicótico (ARISE) la diferencia de 2 puntos no fue significativa, de modo que su eficacia está demostrada solo como fármaco único. A cambio de evitar los efectos de bloquear la dopamina aparecen los colinérgicos (náuseas, estreñimiento, vómitos), y los extrapiramidales son poco frecuentes, no inexistentes.",
+   "ultima_hora": false
+  },
+  {
+   "id": "zuranolona",
+   "dci": "Zuranolona",
+   "seccion": "Autorizada en la UE, no en España",
+   "estado": "autorizado-ue",
+   "estado_texto": "Autorizada en la UE el 17-09-2025, primer medicamento con indicación específica en depresión posparto; comercializada solo en Alemania (julio de 2026). En España, sin ficha en CIMA (consulta del 17-10-2026), es decir, no comercializada; sin IPT publicado ni decisión de la CIPM.",
+   "patologia": "Depresión posparto en adultas (indicación en la UE).",
+   "mecanismo": "Neuroesteroide oral que potencia el receptor GABA-A en un sitio distinto al de las benzodiacepinas.",
+   "via_pauta": "Oral, 50 mg una vez al día por la noche, con comida grasa, durante 14 días.",
+   "datos": [
+    {
+     "texto": "HAMD-17 (escala de depresión de Hamilton) el día 15 en 196 mujeres con depresión posparto grave: −15,6 puntos con 50 mg frente a −11,6 con placebo; la diferencia aparece el día 3 y se mantiene el día 45, último punto medido.",
+     "ensayo": "SKYLARK",
+     "fuentes": [
+      33
+     ]
+    },
+    {
+     "texto": "Remisión el día 15: 27 % con zuranolona frente a 17 % con placebo, diferencia no significativa.",
+     "ensayo": "SKYLARK",
+     "fuentes": [
+      33
+     ]
+    },
+    {
+     "texto": "Duración: 14 días de tratamiento, frente a al menos 6 meses tras la respuesta con un antidepresivo clásico.",
+     "ensayo": "",
+     "fuentes": [
+      33
+     ]
+    },
+    {
+     "texto": "Sin comparación directa con los ISRS.",
+     "ensayo": "",
+     "fuentes": [
+      34,
+      39
+     ]
+    },
+    {
+     "texto": "Antes, la FDA aprobó la brexanolona, del mismo grupo, en perfusión intravenosa de 60 horas; nunca se autorizó en Europa y se retiró en EE. UU. en abril de 2025.",
+     "ensayo": "",
+     "fuentes": [
+      41
+     ]
+    },
+    {
+     "texto": "Contexto de la enfermedad (informe MBRRACE-UK 2025): en el Reino Unido, entre 2021 y 2023, de las 155 mujeres que murieron por causas psiquiátricas en el embarazo o en el año siguiente, 88 fueron suicidios; la salud mental fue la primera causa de muerte materna tardía, entre 6 semanas y 1 año tras el parto.",
+     "ensayo": "",
+     "fuentes": [
+      54
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2023-08-04",
+     "texto": "Aprobación de la FDA en depresión posparto en adultas.",
+     "fuentes": [
+      53
+     ]
+    },
+    {
+     "fecha": "2025-07-24",
+     "texto": "Opinión favorable del CHMP.",
+     "fuentes": [
+      31
+     ]
+    },
+    {
+     "fecha": "2025-08",
+     "texto": "Borrador negativo de NICE (Inglaterra).",
+     "fuentes": [
+      36
+     ]
+    },
+    {
+     "fecha": "2025-09-17",
+     "texto": "Autorización de la Comisión Europea en depresión posparto en adultas.",
+     "fuentes": [
+      31
+     ]
+    },
+    {
+     "fecha": "2026-02-09",
+     "texto": "El SMC (Escocia) no la recomienda.",
+     "fuentes": [
+      35
+     ]
+    },
+    {
+     "fecha": "2026-07",
+     "texto": "Comercialización en Alemania, primer lanzamiento fuera de EE. UU.",
+     "fuentes": [
+      37,
+      38
+     ]
+    },
+    {
+     "fecha": "2026-10-15",
+     "texto": "El IQWiG (Alemania) concluye que su beneficio añadido no está demostrado frente a un tratamiento individualizado; decisión del G-BA prevista a principios de enero de 2027.",
+     "fuentes": [
+      34
+     ]
+    },
+    {
+     "fecha": "2026-10-17",
+     "texto": "Sin ficha en CIMA: no comercializada en España.",
+     "fuentes": [
+      37
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Somnolencia en el 26,5 % frente al 5,1 % con placebo; se redujo la dosis por efectos adversos en el 16,3 % frente al 1,0 % (SKYLARK).",
+     "fuentes": [
+      33
+     ]
+    },
+    {
+     "texto": "No conducir ni hacer tareas peligrosas en las 12 horas siguientes a cada dosis (ficha europea).",
+     "fuentes": [
+      32
+     ]
+    },
+    {
+     "texto": "Potencial de abuso comparable al del alprazolam en un estudio con consumidores de sedantes; en EE. UU., sustancia controlada de la lista IV.",
+     "fuentes": [
+      32
+     ]
+    },
+    {
+     "texto": "Contraindicada en el embarazo; anticoncepción hasta 7 días después de la última dosis.",
+     "fuentes": [
+      32
+     ]
+    },
+    {
+     "texto": "Lactancia: pasa muy poco a la leche (menos del 1 % de la dosis materna), pero la ficha europea indica interrumpir la lactancia salvo que el beneficio supere el riesgo.",
+     "fuentes": [
+      32
+     ]
+    },
+    {
+     "texto": "Los ensayos excluyeron a mujeres con riesgo suicida, trastorno bipolar o psicosis, y el seguimiento acaba el día 45.",
+     "fuentes": [
+      33,
+      36
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "El IQWiG (15-10-2026) concluye que el beneficio añadido no está demostrado ni en la depresión posparto leve ni en la moderada-grave (la compañía reclamaba un beneficio «considerable»). Descarta SKYLARK y ROBIN porque en el grupo placebo estaba prohibido empezar un antidepresivo (el 85 % de las mujeres de SKYLARK no tomaba ninguno), casi no hubo psicoterapia, se restringieron hipnóticos y benzodiacepinas, ROBIN usó 30 mg y no la dosis autorizada de 50 mg, y 45 días de seguimiento es poco para saber si la mejoría se mantiene.",
+     "fuentes": [
+      34
+     ]
+    },
+    {
+     "texto": "El SMC (Escocia, 09-02-2026) no la recomendó y el borrador de NICE (Inglaterra, agosto de 2025) también fue negativo.",
+     "fuentes": [
+      35,
+      36
+     ]
+    }
+   ],
+   "como_leer": "La HAMD-17 (Hamilton) es una escala de depresión de 0 a 52 puntos; en SKYLARK las mujeres partían de unos 29. El día 15 la puntuación bajó 15,6 puntos con zuranolona y 11,6 con placebo: la diferencia es de 4 puntos, y que el placebo bajara casi 12 indica una mejoría espontánea muy alta. La diferencia aparece al tercer día y sigue el día 45, último en que se midió, así que no se sabe cuántas mujeres recaen después. Actúa en días y se toma dos semanas, pero se comparó con placebo y no con antidepresivos, y produjo somnolencia en una de cada cuatro mujeres (frente a una de cada veinte con placebo), con 12 horas sin conducir tras cada dosis.",
+   "ultima_hora": true
+  }
+ ],
+ "ultima_hora": [
+  {
+   "fecha": "2026-10-15",
+   "texto": "Zuranolona: el IQWiG, la agencia alemana de evaluación, concluye que su beneficio añadido no está demostrado en la depresión posparto frente a un tratamiento individualizado (soporte o ISRS); la compañía reclamaba un beneficio «considerable». La decisión del G-BA, tras una audiencia el 23-11-2026, está prevista a principios de enero de 2027.",
+   "fuentes": [
+    34
+   ]
+  }
+ ],
+ "grupo_aporta": [
+  "El grupo ordena las novedades del año por grado de innovación: psilocibina, xanomelina/trospio y zuranolona.",
+  "En depresión resistente, una mejoría de al menos un 25 % en la MADRS ya es clínicamente relevante, porque los antidepresivos clásicos consiguen respuesta en menos de una cuarta parte de estos pacientes.",
+  "El comparador que importa para la psilocibina es la esketamina nasal, la primera vía nueva en depresión resistente, que también exige estructura hospitalaria pero con visitas repetidas durante al menos 6 meses.",
+  "Queda abierto si la psilocibina podría ir por delante de la esketamina en la secuencia de tratamiento, al necesitar una o dos dosis, o si debería reservarse para perfiles concretos, como la depresión resistente asociada a trastorno de estrés postraumático.",
+  "Sobre el ciego en los ensayos de psilocibina: los efectos psicodélicos delatan lo que se ha tomado, la dosis de 1 mg no es un placebo puro y las escalas se puntúan por entrevista, lo que puede sesgar el resultado.",
+  "Xanomelina/trospio es la primera vía terapéutica sin bloqueo del receptor D2, no el primer antipsicótico nuevo en 30 años; retira los efectos adversos que más abandonos causan (extrapiramidales, sexuales por hiperprolactinemia y aumento de peso), pero no resuelve la adherencia.",
+  "Sobre xanomelina/trospio quedan dudas: si bastará en monoterapia o acabará combinado pese a ARISE, y si su desarrollo en alzhéimer lo orientará a pacientes con mucha clínica cognitiva y negativa.",
+  "La zuranolona es una alternativa a los antidepresivos, no un sustituto, con la ventaja de actuar en las semanas de mayor riesgo; aunque se presente como neuroesteroide, comparte farmacodinamia con benzodiacepinas y barbitúricos.",
+  "Para valorar la seguridad de la zuranolona, el grupo propone compararla con la de los antidepresivos clásicos teniendo en cuenta que estos se toleran peor justo en las dos primeras semanas, que es lo que dura la zuranolona; ese estudio no existe."
+ ],
+ "fuentes": [
+  {
+   "n": 1,
+   "texto": "Ministerio de Sanidad, notas informativas de la CIPM de octubre de 2025 a septiembre de 2026 (ningún psicofármaco con principio activo nuevo ni indicación nueva en un trastorno mental); página de acuerdos y notas informativas",
+   "url": "https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/home.htm"
+  },
+  {
+   "n": 2,
+   "texto": "OKdiario, 20-05-2026, titular del hongo",
+   "url": "https://okdiario.com/ciencia/futuro-llegado-cientificos-del-reino-unido-muy-cerca-aprobar-hongo-como-tratamiento-contra-depresion-16806743"
+  },
+  {
+   "n": 3,
+   "texto": "Compass, nota de COMP006, 17-02-2026 (n, −3,8 y −3,6, 39 % y 25 %)",
+   "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Successfully-Achieves-Primary-Endpoint-in-Second-Phase-3-Trial-Evaluating-COMP360-Psilocybin-for-Treatment-Resistant-Depression/default.aspx"
+  },
+  {
+   "n": 4,
+   "texto": "Compass, nota de COMP005, 23-06-2025",
+   "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Successfully-Achieves-Primary-Endpoint-in-First-Phase-3-Trial-Evaluating-COMP360-Psilocybin-for-Treatment-Resistant--ND5XD.pdf"
+  },
+  {
+   "n": 5,
+   "texto": "Compass, presentación de datos de fase 3, 17-02-2026 (70 % y 53 % con segunda administración; sin estudios cara a cara con esketamina; modelo de ≥ 6 h)",
+   "url": "https://s204.q4cdn.com/927483861/files/doc_downloads/2026/02/17/Phase-3-data-presentation-Q1-2026-draft_post-LSA-2.pdf"
+  },
+  {
+   "n": 6,
+   "texto": "Compass, datos a 26 semanas de COMP006, 07-07-2026, nota y diapositivas (retratamiento y seguridad). Otros enlaces: https://s204.q4cdn.com/927483861/files/doc_events/2026/Jul/Phase-3-006-data-webcast-presentation-7-July-26.pdf",
+   "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-Six-Month-Data-from-Second-Phase-3-Trial-Confirming-Rapid-and-Durable-Profile/default.aspx"
+  },
+  {
+   "n": 7,
+   "texto": "Compass, solicitud por partes y bono de prioridad, 24-04-2026",
+   "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-FDA-Granted-NDA-Rolling-Review-Request-and-Awarded-Commissioners-National-Priority-Voucher/default.aspx"
+  },
+  {
+   "n": 8,
+   "texto": "STAT, 14-10-2026, Compass en el STAT Summit (solicitud «este trimestre», sesión de unas 6 h, Hyman sobre el ciego); sin solicitud en la UE ni en el Reino Unido. Otros enlaces: https://www.benzinga.com/news/26/10/62237646/compass-pathways-reports-q2-2026-results-full-earnings-call-transcript ; https://psychedelichealth.co.uk/2026/10/02/psilocybin-in-the-uk-research-regulation-and-access-landscape-in-2026/",
+   "url": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/"
+  },
+  {
+   "n": 9,
+   "texto": "Hirschfeld et al., J Clin Psychiatry 2002 (respuesta parcial = reducción del 25 al 50 %)",
+   "url": "https://www.psychiatrist.com/jcp/partial-response-nonresponse-antidepressant-therapy"
+  },
+  {
+   "n": 10,
+   "texto": "STAR*D (Rush et al., Am J Psychiatry 2006), respuesta y remisión por escalón",
+   "url": "https://psychiatryonline.org/doi/10.1176/ajp.2006.163.11.1864"
+  },
+  {
+   "n": 11,
+   "texto": "TRANSFORM-2 (Popova et al., Am J Psychiatry 2019), −4,0 puntos a los 28 días. Otros enlaces: https://ajmc.com/view/transform2-results-on-esketamine-published-along-with-caveats",
+   "url": "https://nice.org.uk/guidance/TA854/documents/1"
+  },
+  {
+   "n": 12,
+   "texto": "Ficha técnica europea de la esketamina nasal (pauta y vigilancia); EPAR; ficha de EE. UU. (2 horas); financiación en España (OCU, 11-11-2022). Otros enlaces: https://www.ema.europa.eu/en/medicines/human/EPAR/spravato ; https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/211243s019lbl.pdf ; https://www.ocu.org/salud/medicamentos/noticias/spravato-esketamina-depresion",
+   "url": "https://www.medicines.org.uk/emc/product/10977/smpc"
+  },
+  {
+   "n": 13,
+   "texto": "Hieronymus et al., JAMA Netw Open, 30-07-2025 (brazos control en ensayos de psilocibina, ISRS y esketamina)",
+   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836921"
+  },
+  {
+   "n": 14,
+   "texto": "EPIsoDE (Mertens et al., JAMA Psychiatry, 18-03-2026), negativo",
+   "url": "https://medicaldialogues.in/psychiatry/news/psilocybin-therapy-shows-limited-benefit-in-treatment-resistant-depression-jama-167578"
+  },
+  {
+   "n": 15,
+   "texto": "Orsini, Rosenblat et al., JAMA Psychiatry, 15-04-2026 (ciego en 112 ensayos)",
+   "url": "https://temertymedicine.utoronto.ca/news/psychedelics-promising-not-prime-time-say-researchers"
+  },
+  {
+   "n": 16,
+   "texto": "FDA, guía definitiva sobre ensayos con psicodélicos, 14-07-2026",
+   "url": "https://www.bakerdonelson.com/fda-finalizes-guidance-on-psychedelic-drugs-for-clinical-investigations-key-implications-for-hospitals-and-trial-sponsors"
+  },
+  {
+   "n": 17,
+   "texto": "Compass, aceptación del IND en TEPT (COMP202), 07-01-2026",
+   "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-FDA-Acceptance-of-IND-Application-for-PTSD-and-Hosts-Webinar-on-PTSD-and-TRD/default.aspx"
+  },
+  {
+   "n": 18,
+   "texto": "Compass, datos a 52 semanas de COMP005, 09-09-2026",
+   "url": "https://s204.q4cdn.com/927483861/files/doc_news/2026/PRESS-RELEASE_005-52wk-Data-vF2.pdf"
+  },
+  {
+   "n": 19,
+   "texto": "Psychiatric Times, aprobación de xanomelina/trospio por la FDA, 26-09-2024",
+   "url": "https://www.psychiatrictimes.com/view/fda-approves-cobenfy-for-schizophrenia"
+  },
+  {
+   "n": 20,
+   "texto": "EMERGENT-2 (Lancet 2024)",
+   "url": "https://www.linksmedicus.com/news/rct-karxt-xanomeline-trospium-demonstrates-significant-symptom-reduction-in-schizophrenia-compared-to-placebo-the-lancet/"
+  },
+  {
+   "n": 21,
+   "texto": "EMERGENT-3 (JAMA Psychiatry 2024) y póster ECNP 2023 (abandonos 36,8 % y 29,0 %; por efectos adversos 6,4 % y 5,5 %). Otros enlaces: https://karunatx.com/wp-content/uploads/2023/10/ECNP-2023-POS-EMERGENT3-Secondary-Safety-Tolerability_FINAL.pdf",
+   "url": "https://www.hmpgloballearningnetwork.com/site/pcn/news/third-xanomeline-trospium-trial-shows-improvement-schizophrenia-symptoms"
+  },
+  {
+   "n": 22,
+   "texto": "EMERGENT-5 (Kaul et al., Schizophr Res 2026), 277 de 566 completaron; EMERGENT-4. Otros enlaces: https://www.psychiatrist.com/news/xanomeline-trospium-eps-emergent-trials-motor-safety/",
+   "url": "https://psychopharmacologyinstitute.com/section/xanomeline-trospium-long-term-does-efficacy-and-safety-hold-up-after-one-year/"
+  },
+  {
+   "n": 23,
+   "texto": "ARISE, resultados principales (22-04-2025)",
+   "url": "https://www.hcplive.com/view/cobenfy-falls-short-phase-3-arise-trial-adjunctive-schizophrenia-therapy"
+  },
+  {
+   "n": 24,
+   "texto": "ICER, informe final, 11-03-2024",
+   "url": "https://icer.org/news-insights/press-releases/institute-for-clinical-and-economic-review-publishes-final-evidence-report-on-treatment-for-schizophrenia/"
+  },
+  {
+   "n": 25,
+   "texto": "Fierce Pharma, carta de la FDA sobre el anuncio de xanomelina/trospio (15-12-2025)",
+   "url": "https://www.fiercepharma.com/marketing/bms-cobenfy-tv-ad-latest-target-fda-untitled-letter-spree"
+  },
+  {
+   "n": 26,
+   "texto": "Psychiatric Times, 30-07-2026, datos de vida real (Komodo, APA 2026)",
+   "url": "https://www.psychiatrictimes.com/view/real-world-and-long-term-trial-data-show-xanomeline-trospium-cuts-hospitalizations-antipsychotic-burden-in-schizophrenia"
+  },
+  {
+   "n": 27,
+   "texto": "Zai Lab, aprobación en China, 23-12-2025",
+   "url": "https://ir.zailaboratory.com/news-releases/news-release-details/zai-lab-announces-approval-cobenfy-xanomeline-and-trospium"
+  },
+  {
+   "n": 28,
+   "texto": "NICE, evaluación de xanomelina/trospio en curso (sin autorización británica); BMS Reino Unido, 22-09-2025. Otros enlaces: https://www.bms.com/gb/media/press-release-listing/bristol-myers-squibb-plans-to-launch-cobenfy-in-the-uk-at-a-list-price-equal-to-the-us-launch-price.html",
+   "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ta11925"
+  },
+  {
+   "n": 29,
+   "texto": "ADEPT: irregularidades (03-12-2025) y segundo retraso (30-07-2026). Otros enlaces: https://www.fiercepharma.com/pharma/bristol-myers-delays-cobenfy-alzheimers-psychosis-readout-again-amid-another-quarterly-beat",
+   "url": "https://www.fiercepharma.com/pharma/site-irregularities-bristol-myers-delays-key-cobenfy-readout-alzheimers-psychosis"
+  },
+  {
+   "n": 30,
+   "texto": "Kaul et al., J Clin Psychiatry 2025, seguridad agrupada de EMERGENT-1/2/3",
+   "url": "https://www.psychiatrist.com/wp-content/uploads/2025/02/safety-tolerability-xanomeline-trospium-chloride-schizophrenia-pooled-randomized-double-blind-placebo-controlled-EMERGENT-trials-24m15497.pdf"
+  },
+  {
+   "n": 31,
+   "texto": "EMA, EPAR de zuranolona (indicación, autorización 17-09-2025)",
+   "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zurzuvae"
+  },
+  {
+   "n": 32,
+   "texto": "Ficha técnica de zuranolona en español (conducción, abuso, embarazo, lactancia, pauta)",
+   "url": "https://www.ema.europa.eu/es/documents/product-information/zurzuvae-epar-product-information_es.pdf"
+  },
+  {
+   "n": 33,
+   "texto": "SKYLARK (Deligiannidis et al., Am J Psychiatry 2023)",
+   "url": "https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp.20220785"
+  },
+  {
+   "n": 34,
+   "texto": "G-BA e IQWiG, evaluación de beneficio de zuranolona publicada el 15-10-2026 (A26-86). Otros enlaces: https://www.g-ba.de/downloads/92-975-10095/2026-10-15_Nutzenbewertung-IQWiG_Zuranolon_D-1341.pdf",
+   "url": "https://www.g-ba.de/bewertungsverfahren/nutzenbewertung/1380/"
+  },
+  {
+   "n": 35,
+   "texto": "SMC (Escocia), 09-02-2026, no recomendada",
+   "url": "https://scottishmedicines.org.uk/media/9786/zuranolone-zurzuvae-final-jan-2026-for-website.pdf"
+  },
+  {
+   "n": 36,
+   "texto": "NICE, borrador de zuranolona, agosto de 2025",
+   "url": "https://www.nice.org.uk/guidance/GID-TA11356/documents/draft-guidance"
+  },
+  {
+   "n": 37,
+   "texto": "Biogen, resultados del 2.º trimestre de 2026 (Alemania, primer lanzamiento fuera de EE. UU.); CIMA consultado el 17-10-2026 sin resultados para zuranolona ni para su nombre comercial. Otros enlaces: https://cima.aemps.es/cima/rest/medicamentos?nombre=zurzuvae",
+   "url": "https://investors.biogen.com/static-files/7028660e-258e-42fc-bacf-f0c32392180c"
+  },
+  {
+   "n": 38,
+   "texto": "Vademecum, 17-07-2026, lanzamiento en Alemania",
+   "url": "https://www.vademecum.es/noticia-20260717-Nuevo+lanzamiento+de+Zurzuvae++esteroide+neuroactivo+para+la+depresi+oacute+n+posparto_1265676"
+  },
+  {
+   "n": 39,
+   "texto": "Cochrane (Wilson et al., 2025), tratamientos de la depresión posparto con neuroesteroides, sin comparador activo",
+   "url": "https://ray.yorksj.ac.uk/id/eprint/12982/1/Wilson_et_al-2025-Cochrane_Database_of_Systematic_Reviews.pdf"
+  },
+  {
+   "n": 40,
+   "texto": "Cochrane (Brown et al., 2021), antidepresivos en depresión posparto",
+   "url": "https://www.cochrane.org/evidence/CD013560_antidepressant-treatment-postnatal-depression"
+  },
+  {
+   "n": 41,
+   "texto": "Federal Register, 14-03-2025, retirada de la brexanolona",
+   "url": "https://www.govinfo.gov/content/pkg/FR-2025-03-14/html/2025-04101.htm"
+  },
+  {
+   "n": 42,
+   "texto": "Becker's Behavioral Health, 07-07-2026, titular «39 % response rate»",
+   "url": "https://www.beckersbehavioralhealth.com/?p=11205"
+  },
+  {
+   "n": 43,
+   "texto": "Compass, el acompañamiento no es psicoterapia, 16-07-2026",
+   "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-Publication-of-Post-Hoc-Analysis-Demonstrating-Distinction-of-COMP360-Trial-Monitoring--Support-from-Psychotherapy/default.aspx"
+  },
+  {
+   "n": 44,
+   "texto": "Turkoz et al., Acta Psychiatr Scand 2021 (diferencia mínima importante de 6 puntos de MADRS en depresión resistente)",
+   "url": "https://utsouthwestern.elsevierpure.com/en/publications/clinically-meaningful-changes-on-depressive-symptom-measures-and-"
+  },
+  {
+   "n": 45,
+   "texto": "BMS, estudio abierto de cambio a xanomelina/trospio, 28-03-2026",
+   "url": "https://news.bms.com/news/details/2026/Open-Label-Outpatient-Switch-Study-Demonstrates-Symptom-Stability-During-Transition-from-Oral-Atypical-Antipsychotics-to-Cobenfy-xanomeline-and-trospium-chloride/default.aspx"
+  },
+  {
+   "n": 46,
+   "texto": "Ficha de xanomelina/trospio en EE. UU. (reacciones adversas, contraindicaciones)",
+   "url": "https://drugs.com/pro/cobenfy.html"
+  },
+  {
+   "n": 47,
+   "texto": "Wong et al., J Affect Disord 2024 (NNT indirecto de psilocibina y esketamina, con datos de fase 2b)",
+   "url": "https://www.hmpgloballearningnetwork.com/site/pcn/news/study-findings-support-esketamine-and-psilocybin-effective-trd-treatments"
+  },
+  {
+   "n": 48,
+   "texto": "Psychedelic Alpha, 16-01-2026, Australia (datos de la TGA)",
+   "url": "https://psychedelicalpha.com/news/australias-psychedelic-experiment-progress-pitfalls-and-what-comes-next/"
+  },
+  {
+   "n": 49,
+   "texto": "NUDZ (Chequia), 23-03-2026",
+   "url": "https://www.nudz.cz/en/news-and-events/official-statement-on-the-availability-of-psilocybin-treatment"
+  },
+  {
+   "n": 50,
+   "texto": "Dexanfetamina (TDAH): nota de la CIPM de septiembre de 2025, informe público y llegada a España (diariofarma, 10-02-2026). Otros enlaces: https://www.sanidad.gob.es/en/areas/farmacia/precios/comisionInteministerial/informesPublicos/docs/InformePublicoTentin.pdf ; https://diariofarma.com/2026/02/10/llega-a-espana-la-primera-innovacion-en-mas-de-una-decada-para-el-tdah-infantil-y-juvenil",
+   "url": "https://www.sanidad.gob.es/en/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/docs/NOTAINFORMATIVACIPM_SEPTIEMBRE2025.pdf"
+  },
+  {
+   "n": 51,
+   "texto": "Horan et al., Am J Psychiatry, 11-12-2024, análisis posterior de cognición en EMERGENT-2/3 (efecto en el subgrupo con deterioro cognitivo)",
+   "url": "https://psychiatryonline.org/doi/10.1176/appi.ajp.20240076"
+  },
+  {
+   "n": 52,
+   "texto": "Psychiatrist.com, 30-09-2026, análisis agrupado de síntomas negativos en EMERGENT-1/2/3 (Psych Congress 2026)",
+   "url": "https://www.psychiatrist.com/news/xanomeline-trospium-negative-symptom-severity-schizophrenia/"
+  },
+  {
+   "n": 53,
+   "texto": "FDA, 04-08-2023, aprobación de la zuranolona oral en depresión posparto en adultos",
+   "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-treatment-postpartum-depression"
+  },
+  {
+   "n": 54,
+   "texto": "Maternal Mental Health Alliance, resumen del informe MBRRACE-UK 2025 (muertes maternas de 2021-2023 en el Reino Unido: 155 por causas psiquiátricas, 88 por suicidio; la salud mental, primera causa de muerte materna tardía)",
+   "url": "https://maternalmentalhealthalliance.org/news/mbrrace-2025-suicide-leading-cause-maternal-death/"
+  }
+ ]
+}

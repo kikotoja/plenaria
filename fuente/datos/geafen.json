@@ -1,0 +1,909 @@
+{
+ "id": "geafen",
+ "area": "Neurología",
+ "grupo": "GEAFEN",
+ "grupo_nombre": "Grupo Español de Atención Farmacéutica en Enfermedades Neurológicas",
+ "resumen": "Neurología: omaveloxolona en ataxia de Friedreich y givinostat y vamorolona en distrofia muscular de Duchenne, principios activos nuevos comercializados y financiados en España en el último año; tolebrutinib en esclerosis múltiple secundaria progresiva (autorizado en la UE en junio de 2026 tras el rechazo de la FDA), y los anticuerpos anti-amiloide lecanemab y donanemab en alzhéimer precoz, autorizados en la UE y con la financiación rechazada en España.",
+ "prensa": [
+  {
+   "titular": "Una revisión de estudios sentencia a los nuevos fármacos contra el alzhéimer: no logran ningún beneficio clínico",
+   "medio": "El Español",
+   "fecha": "2026-04-16",
+   "url": "",
+   "evidencia": [
+    "La revisión es la de Cochrane del 16-04-2026: 17 ensayos y 20.342 participantes; concluyó que el efecto es nulo o trivial, por debajo de la diferencia clínicamente relevante.",
+    "En el ensayo CLARITY AD (1.795 pacientes, 18 meses), la escala CDR-SB (de 0 a 18 puntos; más es peor) empeoró 1,21 puntos con lecanemab frente a 1,66 con placebo: 0,45 puntos menos.",
+    "En el ensayo TRAILBLAZER-ALZ 2 (1.736 pacientes, 76 semanas), la CDR-SB, variable secundaria, empeoró 1,72 puntos con donanemab frente a 2,42 con placebo: 0,70 puntos menos. Son dos ensayos distintos, no comparados entre sí.",
+    "La revisión está discutida en publicaciones: un grupo de expertos pidió en agosto de 2026 que Cochrane la retirara, y un artículo en Alzheimer's & Dementia (julio de 2026) le reprocha juntar anticuerpos que retiran el amiloide con otros que no lo retiran y ensayos anteriores a los biomarcadores."
+   ],
+   "fuentes": [
+    24,
+    23,
+    14,
+    15,
+    16,
+    27
+   ]
+  },
+  {
+   "titular": "678 días esperando los nuevos fármacos contra el alzhéimer: \"Se ha decidido condenar a una generación de pacientes\"",
+   "medio": "El Español",
+   "fecha": "2026-07-17",
+   "url": "",
+   "evidencia": [
+    "Lecanemab está autorizado en la UE desde el 15-04-2025; la CIPM rechazó financiarlo en febrero de 2026.",
+    "Donanemab está autorizado en la UE desde el 24-09-2025; la CIPM rechazó financiarlo el 25-03-2026.",
+    "Motivo de los dos rechazos: valor terapéutico y criterios de racionalización del gasto público. En julio de 2026 la CIPM desestimó las alegaciones de los dos laboratorios (publicado el 09-10-2026).",
+    "La indicación en la UE se limita al deterioro cognitivo leve o la demencia leve por alzhéimer, con amiloide confirmado, en pacientes con cero o una copia de ApoE4."
+   ],
+   "fuentes": [
+    24,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "titular": "Nuevo tratamiento para la ataxia de Friedreich frena 68 % progresión de la discapacidad",
+   "medio": "La Noción (EFE)",
+   "fecha": "2026-03-18",
+   "url": "https://www.lanocion.es/espanya/20260318/nuevo-tratamiento-para-la-ataxia-de-friedreich-frena-68-progresion-de-la-discapacidad",
+   "evidencia": [
+    "El 68 % no sale del ensayo frente a placebo, sino de seguimientos de varios años comparados con pacientes de la historia natural de la enfermedad.",
+    "El análisis publicado a 3 años frente a la historia natural (Ann Clin Transl Neurol, 2023; 136 frente a 136 pacientes) da un 55 % menos de progresión; es una comparación sin reparto al azar.",
+    "En el ensayo frente a placebo (MOXIe, 48 semanas, 82 pacientes sin pie cavo de 103 aleatorizados), la escala mFARS (de 0 a 93 puntos; más es peor) bajó 1,55 puntos con omaveloxolona y subió 0,85 con placebo: diferencia de 2,4 puntos."
+   ],
+   "fuentes": [
+    30,
+    31,
+    29
+   ]
+  }
+ ],
+ "farmacos": [
+  {
+   "id": "omaveloxolona",
+   "dci": "Omaveloxolona",
+   "seccion": "Ya en España",
+   "estado": "financiado",
+   "estado_texto": "Financiado en España desde el 1 de marzo de 2026 (CIPM del 28 de enero de 2026), con criterios de inicio, seguimiento y retirada. Es el primer tratamiento autorizado para esta enfermedad.",
+   "patologia": "Ataxia de Friedreich en adultos y adolescentes desde 16 años.",
+   "mecanismo": "Activador de Nrf2, el factor que pone en marcha las defensas antioxidantes de la célula.",
+   "via_pauta": "Cápsula oral diaria.",
+   "datos": [
+    {
+     "texto": "Cambio en la escala de ataxia mFARS (de 0 a 93 puntos; más es peor) a las 48 semanas, frente a placebo, en 82 pacientes sin pie cavo de 103 aleatorizados: bajó 1,55 puntos con omaveloxolona y subió 0,85 con placebo; diferencia de 2,4 puntos.",
+     "ensayo": "MOXIe",
+     "fuentes": [
+      29
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2025-06-01",
+     "texto": "Entra en vigor la resolución por la que la CIPM propuso no financiarlo en 2025; hasta enero de 2026 el acceso dependía de cada comunidad y de la vía de situaciones especiales de la AEMPS.",
+     "fuentes": [
+      32
+     ]
+    },
+    {
+     "fecha": "2026-01-28",
+     "texto": "La CIPM aprueba su financiación, con criterios de inicio, seguimiento y retirada.",
+     "fuentes": [
+      25
+     ]
+    },
+    {
+     "fecha": "2026-03-01",
+     "texto": "Alta en la financiación en España (BIFIMED).",
+     "fuentes": [
+      28
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "La evidencia es un único ensayo de 48 semanas.",
+     "fuentes": [
+      25
+     ]
+    },
+    {
+     "texto": "El análisis principal excluye a los pacientes con pie cavo, una deformidad frecuente en la enfermedad, porque no hay forma estandarizada de graduarla y puede alterar la escala.",
+     "fuentes": [
+      25
+     ]
+    },
+    {
+     "texto": "Criterio de retirada en España: suspender si la mFARS sube más de 2 puntos a los 12 meses o llega a 80.",
+     "fuentes": [
+      25
+     ]
+    },
+    {
+     "texto": "En Inglaterra no hay decisión de NICE: el laboratorio retiró su solicitud en 2025.",
+     "fuentes": [
+      33
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "Mientras no estuvo financiado, la federación de pacientes Fedaes documentó denegaciones de acceso en varias comunidades autónomas (Maldita, 19-05-2026).",
+     "fuentes": [
+      32
+     ]
+    }
+   ],
+   "como_leer": "La mFARS puntúa de 0 a 93 el equilibrio, la coordinación de brazos y piernas, la marcha y el habla; más puntos es peor, y sin tratamiento sube cada año. En MOXIe, 103 pacientes de 16 a 40 años se repartieron al azar entre omaveloxolona y placebo durante 48 semanas, y el análisis principal se hizo en los 82 que no tenían pie cavo, porque esa deformidad altera la puntuación y no hay forma estándar de medirla. Con omaveloxolona la mFARS bajó 1,55 puntos (mejoró un poco) y con placebo subió 0,85 (empeoró): la diferencia, 2,4 puntos en un año, es el efecto del fármaco. El «68 %» que circuló en prensa no sale de este ensayo, sino de seguir a los pacientes varios años y compararlos con registros de pacientes no tratados; el estudio publicado de ese tipo, a 3 años, da un 55 %, un dato orientativo y más débil que el del ensayo.",
+   "ultima_hora": false
+  },
+  {
+   "id": "givinostat",
+   "dci": "Givinostat",
+   "seccion": "Ya en España",
+   "estado": "financiado",
+   "estado_texto": "Financiado en España desde el 1 de diciembre de 2025 (CIPM del 22 de octubre de 2025); en la UE tiene autorización condicional desde el 06-06-2025.",
+   "patologia": "Distrofia muscular de Duchenne en niños desde 6 años que aún caminan, junto con corticoides.",
+   "mecanismo": "Inhibidor de las histona desacetilasas (HDAC): frena la inflamación y la sustitución del músculo por grasa y fibrosis.",
+   "via_pauta": "",
+   "datos": [
+    {
+     "texto": "Empeoramiento del tiempo en subir 4 escalones a las 72 semanas, frente a placebo, en niños que ya tomaban corticoides (179 niños; análisis principal en 120): 1,25 segundos con givinostat frente a 3,03 con placebo.",
+     "ensayo": "EPIDYS",
+     "fuentes": [
+      36
+     ]
+    },
+    {
+     "texto": "Plaquetas bajas: 57 de cada 100 niños con givinostat frente a 5 de cada 100 con placebo.",
+     "ensayo": "EPIDYS",
+     "fuentes": [
+      36
+     ]
+    },
+    {
+     "texto": "Datos de la extensión abierta presentados en el congreso AANEM (29-09 al 02-10-2026): edad mediana a la pérdida de la marcha de 17,3 años en 225 niños tratados, frente a 11,0-13,4 años publicados con corticoides solos. Es una comparación con otros estudios, sin grupo control, y solo un tercio de los niños había perdido la marcha.",
+     "ensayo": "",
+     "fuentes": [
+      44
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2025-06-06",
+     "texto": "Autorización condicional en la UE, a la espera de dos estudios que confirmen eficacia y seguridad a largo plazo.",
+     "fuentes": [
+      34
+     ]
+    },
+    {
+     "fecha": "2025-10-22",
+     "texto": "La CIPM aprueba su financiación.",
+     "fuentes": [
+      34,
+      35
+     ]
+    },
+    {
+     "fecha": "2025-12-01",
+     "texto": "Alta en la financiación en España.",
+     "fuentes": [
+      28,
+      34
+     ]
+    },
+    {
+     "fecha": "2026-03-10",
+     "texto": "IPT de la AEMPS (IPT-435): lo sitúa como opción adicional a los corticoides, con selección de pacientes y vigilancia estrecha, y deja el posicionamiento definitivo pendiente de más datos.",
+     "fuentes": [
+      34
+     ]
+    },
+    {
+     "fecha": "2026-05-12",
+     "texto": "Borrador final de NICE (Inglaterra) que recomienda givinostat en niños que caminan, desde 6 años.",
+     "fuentes": [
+      49
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Requiere controlar plaquetas y triglicéridos antes y durante el tratamiento, con ajustes de dosis.",
+     "fuentes": [
+      34
+     ]
+    },
+    {
+     "texto": "El informe de la CIPM recoge como incertidumbres la solidez estadística del resultado, cómo interpretar su magnitud y si modifica la enfermedad a largo plazo; las demás variables funcionales se consideran exploratorias.",
+     "fuentes": [
+      34
+     ]
+    },
+    {
+     "texto": "La autorización europea es condicional: faltan dos estudios que confirmen eficacia y seguridad a largo plazo.",
+     "fuentes": [
+      34
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "La escala funcional NSAA, que la nota del laboratorio presenta como resultado, no se da como resultado demostrado ni en el resumen técnico de la agencia irlandesa (NCPE) ni en el informe de la CIPM, por ser una variable secundaria y exploratoria.",
+     "fuentes": [
+      34,
+      36,
+      47
+     ]
+    }
+   ],
+   "como_leer": "En la distrofia muscular de Duchenne falta la distrofina, el músculo se va rompiendo y se sustituye por grasa y fibrosis; la función se mide en segundos (por ejemplo, cuánto tarda el niño en subir 4 escalones), y más segundos es peor. EPIDYS incluyó 179 niños que caminaban, desde 6 años y todos con corticoides; 2 de cada 3 recibieron givinostat y 1 de cada 3 placebo durante 72 semanas (unos 18 meses), y el análisis principal se hizo en los 120 que tenían en la resonancia entre un 5 y un 30 % de grasa en el músculo del muslo, para comparar niños en una fase parecida. Los dos grupos empeoraron: al final, los de placebo tardaban 3,03 segundos más que al principio en subir los escalones y los de givinostat 1,25 segundos más, una diferencia de 1,78 segundos. Givinostat no repara la distrofina: hace que el músculo se pierda más despacio. Los datos de la extensión abierta presentados en octubre no tienen grupo control: se comparan con otros estudios, y solo un tercio de los niños había llegado a perder la marcha.",
+   "ultima_hora": false
+  },
+  {
+   "id": "vamorolona",
+   "dci": "Vamorolona",
+   "seccion": "Ya en España",
+   "estado": "financiado",
+   "estado_texto": "Financiado en España desde el 1 de abril de 2026 (CIPM del 25 de febrero de 2026), en segunda línea; la ampliación desde 2 años, aprobada por la CIPM el 23-09-2026, figuraba aún «En estudio» en BIFIMED a 17-10-2026.",
+   "patologia": "Distrofia muscular de Duchenne. En la UE, desde 2 años tras la ampliación de la indicación (antes, desde 4 años). En España se financia en segunda línea: niños con diagnóstico genético que tomaban corticoides y han tenido que reducirlos más de un 30 % o suspenderlos por efectos adversos; la financiación desde 2 años la aprobó la CIPM el 23-09-2026 y a 17-10-2026 figuraba aún «En estudio» en BIFIMED.",
+   "mecanismo": "Corticoide disociativo: se une al mismo receptor que la prednisona, con menos efecto sobre el crecimiento y el hueso.",
+   "via_pauta": "Dosis autorizada: 6 mg/kg.",
+   "datos": [
+    {
+     "texto": "Tiempo en levantarse del suelo a las 24 semanas, en 121 niños de 4 a 6 años que nunca habían tomado corticoides: con vamorolona pasó de 6,0 a 4,6 segundos; con placebo, de 5,4 a 5,5 segundos.",
+     "ensayo": "VISION-DMD",
+     "fuentes": [
+      39
+     ]
+    },
+    {
+     "texto": "Frente a prednisona, en el mismo ensayo de 24 semanas: sin diferencias significativas de eficacia.",
+     "ensayo": "VISION-DMD",
+     "fuentes": [
+      37
+     ]
+    },
+    {
+     "texto": "Talla a las 24 semanas: el percentil bajó 1,9 puntos con prednisona y subió 3,9 con vamorolona.",
+     "ensayo": "VISION-DMD",
+     "fuentes": [
+      38
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2023-12-14",
+     "texto": "Autorización europea.",
+     "fuentes": [
+      37
+     ]
+    },
+    {
+     "fecha": "2025-01-16",
+     "texto": "Se publica la recomendación final de NICE (Inglaterra) para vamorolona.",
+     "fuentes": [
+      48
+     ]
+    },
+    {
+     "fecha": "2026-02-25",
+     "texto": "La CIPM aprueba su financiación, solo en segunda línea.",
+     "fuentes": [
+      37
+     ]
+    },
+    {
+     "fecha": "2026-04-01",
+     "texto": "Alta en la financiación en España.",
+     "fuentes": [
+      28,
+      37
+     ]
+    },
+    {
+     "fecha": "2026-09-23",
+     "texto": "La CIPM aprueba la financiación de la ampliación de la indicación desde 2 años, ya autorizada en la UE (propuesta, sin restricciones añadidas en la nota). Según la propia nota, la entrada en el Nomenclátor suele llegar a primeros del segundo mes tras la reunión.",
+     "fuentes": [
+      50,
+      52
+     ]
+    },
+    {
+     "fecha": "2026-10-03",
+     "texto": "La asociación Duchenne Parent Project España anuncia la ampliación como «Sanidad amplía la financiación»; a 17-10-2026 BIFIMED la daba aún «En estudio».",
+     "fuentes": [
+      51,
+      28
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "El ensayo se hizo en niños sin corticoides previos; en España se financia para los que ya los tomaban y no los toleran.",
+     "fuentes": [
+      37,
+      38
+     ]
+    },
+    {
+     "texto": "La nota de la CIPM sobre la ampliación desde 2 años no aclara si se mantiene la segunda línea por debajo de 4 años.",
+     "fuentes": [
+      50
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "La agencia alemana G-BA (resolución del 04-07-2024) le reconoció un beneficio adicional «no cuantificable» frente a prednisona: sin diferencias en función motora, y la ventaja en talla no se consideró clínicamente relevante por diferencias de partida y por la duración corta de la comparación.",
+     "fuentes": [
+      41
+     ]
+    },
+    {
+     "texto": "En febrero de 2026, la asociación Duchenne Parent Project España criticó una decisión previa de no financiarlo (iSanidad, 03-02-2026); la CIPM lo financió después, solo en segunda línea.",
+     "fuentes": [
+      40,
+      37
+     ]
+    }
+   ],
+   "como_leer": "Es un corticoide «disociativo»: los corticoides actúan por dos vías, una que explica casi toda su acción antiinflamatoria y otra ligada a muchos de sus efectos adversos (crecimiento, hueso, azúcar), y vamorolona usa sobre todo la primera. VISION-DMD incluyó 121 niños de 4 a 6 años que nunca habían tomado corticoides, en cuatro grupos de unos 30 (placebo, prednisona, vamorolona a 2 mg/kg y vamorolona a 6 mg/kg, la dosis autorizada), durante 24 semanas. Con vamorolona el tiempo en levantarse del suelo bajó de 6,0 a 4,6 segundos y con placebo pasó de 5,4 a 5,5; frente a prednisona no hubo diferencias significativas de eficacia, es decir, funciona de forma parecida a un corticoide clásico. La ventaja que se le atribuye es la talla, medida en percentiles (dónde está el niño frente a los de su edad): bajó 1,9 puntos con prednisona y subió 3,9 con vamorolona. No es el primer corticoide para Duchenne, porque prednisona y deflazacort se usan desde hace décadas: lo nuevo es un corticoide diseñado para tener menos efectos adversos.",
+   "ultima_hora": false
+  },
+  {
+   "id": "tolebrutinib",
+   "dci": "Tolebrutinib",
+   "seccion": "Lo que viene",
+   "estado": "autorizado-ue",
+   "estado_texto": "Autorizado en la UE el 19 de junio de 2026; la FDA lo rechazó el 24 de diciembre de 2025; en España, sin precio ni financiación, con IPT en marcha.",
+   "patologia": "Adultos con esclerosis múltiple secundaria progresiva sin brotes en los dos últimos años (indicación en la UE).",
+   "mecanismo": "Inhibidor de la tirosina cinasa de Bruton (BTK) que atraviesa la barrera hematoencefálica y actúa sobre linfocitos B y microglía.",
+   "via_pauta": "Oral: comprimido diario de 60 mg.",
+   "datos": [
+    {
+     "texto": "Progresión confirmada de la discapacidad a 6 meses, frente a placebo, en 1.131 pacientes con esclerosis múltiple secundaria progresiva sin brotes (mediana de seguimiento de 133 semanas): 22,6 de cada 100 con tolebrutinib frente a 30,7 de cada 100 con placebo.",
+     "ensayo": "HERCULES",
+     "fuentes": [
+      8,
+      42
+     ]
+    },
+    {
+     "texto": "Elevación de ALT más de 3 veces por encima del límite normal: 4,0 de cada 100 pacientes con tolebrutinib frente a 1,6 de cada 100 con placebo.",
+     "ensayo": "HERCULES",
+     "fuentes": [
+      8
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2025-12-24",
+     "texto": "La FDA lo rechaza (carta de respuesta completa).",
+     "fuentes": [
+      11
+     ]
+    },
+    {
+     "fecha": "2026-04-23",
+     "texto": "Opinión positiva del CHMP.",
+     "fuentes": [
+      9
+     ]
+    },
+    {
+     "fecha": "2026-05-28",
+     "texto": "La AEMPS inicia su informe de posicionamiento terapéutico (IPT).",
+     "fuentes": [
+      12
+     ]
+    },
+    {
+     "fecha": "2026-06-19",
+     "texto": "Autorización en la UE, con seguimiento adicional, tarjeta para el paciente y material educativo sobre el hígado.",
+     "fuentes": [
+      9
+     ]
+    },
+    {
+     "fecha": "2026-09-23",
+     "texto": "La asociación de pacientes AGEDEM no espera su llegada a España antes de 2027.",
+     "fuentes": [
+      13
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Analítica hepática semanal las primeras 12 semanas, mensual hasta el mes 12 y semestral hasta el mes 24 (ficha técnica europea).",
+     "fuentes": [
+      42
+     ]
+    },
+    {
+     "texto": "En la UE está sujeto a seguimiento adicional, con tarjeta para el paciente y material educativo sobre el hígado.",
+     "fuentes": [
+      9
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "La FDA lo rechazó por el riesgo hepático (seis casos de ley de Hy en unos 2.700 pacientes y un fallecimiento tras trasplante hepático) y porque no pudo establecer un balance favorable en ningún subgrupo.",
+     "fuentes": [
+      11
+     ]
+    },
+    {
+     "texto": "La EMA leyó los mismos datos y lo autorizó con seguimiento adicional, tarjeta para el paciente y material educativo sobre el hígado.",
+     "fuentes": [
+      9
+     ]
+    }
+   ],
+   "como_leer": "En la esclerosis múltiple secundaria progresiva la discapacidad avanza poco a poco sin brotes, y los tratamientos actuales actúan sobre todo contra los brotes. HERCULES repartió a 1.131 pacientes con esta forma sin brotes (2 de cada 3 a tolebrutinib y 1 de cada 3 a placebo) y los siguió una mediana de 133 semanas, unos dos años y medio. La variable principal fue la progresión confirmada de la discapacidad a 6 meses: que la puntuación de discapacidad (escala EDSS) empeore y siga peor al cabo de 6 meses, para no contar empeoramientos pasajeros. La tuvieron 22,6 de cada 100 pacientes con tolebrutinib y 30,7 de cada 100 con placebo, es decir, 8 de cada 100 menos; en relativo, un 31 % menos (HR 0,69). La ALT es una enzima del hígado que sube cuando se daña y es la señal de alarma de este fármaco.",
+   "ultima_hora": false
+  },
+  {
+   "id": "lecanemab",
+   "dci": "Lecanemab",
+   "seccion": "Lo que no llega",
+   "estado": "rechazado",
+   "estado_texto": "Autorizado en la UE el 15-04-2025; la CIPM rechazó financiarlo en febrero de 2026 y en julio de 2026 desestimó las alegaciones del laboratorio (publicado el 09-10-2026).",
+   "patologia": "Alzhéimer precoz: deterioro cognitivo leve o demencia leve por alzhéimer, con amiloide confirmado, en pacientes con cero o una copia de ApoE4 (indicación en la UE).",
+   "mecanismo": "Anticuerpo monoclonal que se une al beta-amiloide y retira las placas del cerebro.",
+   "via_pauta": "Infusión intravenosa cada 2 semanas.",
+   "datos": [
+    {
+     "texto": "Empeoramiento en la escala CDR-SB (de 0 a 18 puntos; más es peor) a los 18 meses, frente a placebo, en 1.795 pacientes: 1,21 puntos con lecanemab frente a 1,66 con placebo, 0,45 puntos menos. La CDR-SB era la variable principal.",
+     "ensayo": "CLARITY AD",
+     "fuentes": [
+      14
+     ]
+    },
+    {
+     "texto": "Edema cerebral en la resonancia (ARIA-E): 12,6 de cada 100 pacientes con lecanemab frente a 1,7 de cada 100 con placebo.",
+     "ensayo": "CLARITY AD",
+     "fuentes": [
+      14
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2025-04-15",
+     "texto": "Autorización en la UE.",
+     "fuentes": [
+      17
+     ]
+    },
+    {
+     "fecha": "2026-04-09",
+     "texto": "Se publica el rechazo de la CIPM a financiarlo, acordado en su reunión de febrero de 2026, por su valor terapéutico y por criterios de racionalización del gasto público.",
+     "fuentes": [
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "fecha": "2026-10-09",
+     "texto": "Se publican los acuerdos de la CIPM de julio de 2026, que desestiman las alegaciones del laboratorio; sigue sin financiar.",
+     "fuentes": [
+      20
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Los resultados de lecanemab y donanemab proceden de dos ensayos distintos, no comparados entre sí.",
+     "fuentes": [
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "texto": "La Sociedad Española de Neurología calcula que solo serían candidatos a los anti-amiloides en torno al 4 % de los pacientes con alzhéimer (Infosalus, 14-10-2026).",
+     "fuentes": [
+      43
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "La revisión Cochrane del 16-04-2026 (17 ensayos, 20.342 participantes) concluyó que el efecto de los anticuerpos anti-amiloide es nulo o trivial, por debajo de la diferencia clínicamente relevante.",
+     "fuentes": [
+      23
+     ]
+    },
+    {
+     "texto": "En agosto de 2026, un grupo de expertos pidió a Cochrane que retirara la revisión (The Limbic, 04-08-2026).",
+     "fuentes": [
+      23
+     ]
+    },
+    {
+     "texto": "Un artículo en Alzheimer's & Dementia (julio de 2026) reprocha a la revisión Cochrane juntar anticuerpos que retiran el amiloide con otros que no lo retiran, y ensayos antiguos, anteriores a los biomarcadores.",
+     "fuentes": [
+      27
+     ]
+    }
+   ],
+   "como_leer": "CLARITY AD repartió al azar a 1.795 pacientes entre lecanemab y placebo durante 18 meses y midió la CDR-SB, una escala de 0 a 18 puntos que valora seis áreas de la vida diaria (memoria, orientación, juicio, actividades fuera de casa, aficiones y cuidado personal); más puntos es más deterioro. Los dos grupos empeoraron, el de placebo 1,66 puntos y el de lecanemab 1,21, y la diferencia de 0,45 puntos es el efecto del fármaco. Expresado en relativo es un 27 % menos de deterioro, lo que suena a mucho, pero en puntos es menos de 1, por debajo del umbral que se suele considerar perceptible para el paciente. El ARIA-E es edema cerebral que se ve en la resonancia, casi siempre sin síntomas pero a veces grave; por eso se exigen resonancias periódicas.",
+   "ultima_hora": true
+  },
+  {
+   "id": "donanemab",
+   "dci": "Donanemab",
+   "seccion": "Lo que no llega",
+   "estado": "rechazado",
+   "estado_texto": "Autorizado en la UE el 24-09-2025; la CIPM rechazó financiarlo el 25-03-2026 y en julio de 2026 desestimó las alegaciones del laboratorio (publicado el 09-10-2026). Desde el 16-07-2026 se ofrece en la sanidad privada, a cargo del paciente.",
+   "patologia": "Alzhéimer precoz: deterioro cognitivo leve o demencia leve por alzhéimer, con amiloide confirmado, en pacientes con cero o una copia de ApoE4 (indicación en la UE).",
+   "mecanismo": "Anticuerpo monoclonal que se une al beta-amiloide y retira las placas del cerebro.",
+   "via_pauta": "Infusión intravenosa cada 4 semanas.",
+   "datos": [
+    {
+     "texto": "Empeoramiento en la escala CDR-SB (de 0 a 18 puntos; más es peor) a las 76 semanas, frente a placebo, en 1.736 pacientes: 1,72 puntos con donanemab frente a 2,42 con placebo, 0,70 puntos menos. La CDR-SB era una variable secundaria; la principal fue la escala iADRS.",
+     "ensayo": "TRAILBLAZER-ALZ 2",
+     "fuentes": [
+      15,
+      16
+     ]
+    },
+    {
+     "texto": "Edema cerebral en la resonancia (ARIA-E): 24 de cada 100 pacientes con donanemab frente a 2,1 de cada 100 con placebo.",
+     "ensayo": "TRAILBLAZER-ALZ 2",
+     "fuentes": [
+      16
+     ]
+    }
+   ],
+   "situacion": [
+    {
+     "fecha": "2025-09-24",
+     "texto": "Autorización en la UE.",
+     "fuentes": [
+      17
+     ]
+    },
+    {
+     "fecha": "2026-03-25",
+     "texto": "La CIPM rechaza financiarlo, por su valor terapéutico y por criterios de racionalización del gasto público.",
+     "fuentes": [
+      19,
+      20
+     ]
+    },
+    {
+     "fecha": "2026-07-16",
+     "texto": "Empieza a ofrecerse en la sanidad privada, a cargo del paciente.",
+     "fuentes": [
+      22
+     ]
+    },
+    {
+     "fecha": "2026-10-09",
+     "texto": "Se publican los acuerdos de la CIPM de julio de 2026, que desestiman las alegaciones del laboratorio; sigue sin financiar.",
+     "fuentes": [
+      20
+     ]
+    }
+   ],
+   "seguridad_y_limites": [
+    {
+     "texto": "Los resultados de lecanemab y donanemab proceden de dos ensayos distintos, no comparados entre sí.",
+     "fuentes": [
+      14,
+      15,
+      16
+     ]
+    },
+    {
+     "texto": "La Sociedad Española de Neurología calcula que solo serían candidatos a los anti-amiloides en torno al 4 % de los pacientes con alzhéimer (Infosalus, 14-10-2026).",
+     "fuentes": [
+      43
+     ]
+    }
+   ],
+   "debate": [
+    {
+     "texto": "La revisión Cochrane del 16-04-2026 (17 ensayos, 20.342 participantes) concluyó que el efecto de los anticuerpos anti-amiloide es nulo o trivial, por debajo de la diferencia clínicamente relevante.",
+     "fuentes": [
+      23
+     ]
+    },
+    {
+     "texto": "En agosto de 2026, un grupo de expertos pidió a Cochrane que retirara la revisión (The Limbic, 04-08-2026).",
+     "fuentes": [
+      23
+     ]
+    },
+    {
+     "texto": "Un artículo en Alzheimer's & Dementia (julio de 2026) reprocha a la revisión Cochrane juntar anticuerpos que retiran el amiloide con otros que no lo retiran, y ensayos antiguos, anteriores a los biomarcadores.",
+     "fuentes": [
+      27
+     ]
+    }
+   ],
+   "como_leer": "TRAILBLAZER-ALZ 2 comparó donanemab con placebo en 1.736 pacientes durante 76 semanas (unos 18 meses). Su variable principal fue la escala iADRS, que combina cognición y actividades diarias; la CDR-SB (de 0 a 18 puntos, más es peor) se midió como variable secundaria: el grupo placebo empeoró 2,42 puntos y el de donanemab 1,72, es decir, 0,70 puntos menos, un 29 % menos en relativo. Aunque la escala es la misma, esta cifra no se puede comparar con la de lecanemab como si fueran un mismo ensayo: en lecanemab la CDR-SB era la variable principal, las poblaciones eran distintas (en donanemab se seleccionó a los pacientes por la proteína tau en PET) y la duración no es idéntica. El edema cerebral visible en la resonancia (ARIA-E), casi siempre sin síntomas pero a veces grave, lo tuvieron 24 de cada 100 pacientes con donanemab frente a 2,1 con placebo.",
+   "ultima_hora": true
+  }
+ ],
+ "ultima_hora": [
+  {
+   "fecha": "2026-10-02",
+   "texto": "Givinostat: en el congreso AANEM (29-09 al 02-10-2026) se presentaron datos de la extensión abierta, con una edad mediana a la pérdida de la marcha de 17,3 años en 225 niños tratados, frente a 11,0-13,4 años publicados con corticoides solos. Es una comparación con otros estudios, sin grupo control, y solo un tercio de los niños había perdido la marcha.",
+   "fuentes": [
+    44
+   ]
+  },
+  {
+   "fecha": "2026-10-03",
+   "texto": "Vamorolona: la asociación Duchenne Parent Project España anuncia la ampliación de la financiación desde 2 años, aprobada por la CIPM el 23-09-2026; a 17-10-2026 BIFIMED la daba aún «En estudio».",
+   "fuentes": [
+    51,
+    50,
+    28
+   ]
+  },
+  {
+   "fecha": "2026-10-09",
+   "texto": "Lecanemab y donanemab: Sanidad publica los acuerdos de la CIPM de julio, que desestiman las alegaciones de Eisai y de Lilly; los dos siguen sin financiar.",
+   "fuentes": [
+    20
+   ]
+  },
+  {
+   "fecha": "2026-10-14",
+   "texto": "Alzhéimer: la confederación de asociaciones de familiares, CEAFA, abre una recogida de firmas para pedir la financiación pública de lecanemab y donanemab. Según la Sociedad Española de Neurología, serían candidatos en torno al 4 % de los pacientes con alzhéimer.",
+   "fuentes": [
+    43
+   ]
+  },
+  {
+   "fecha": "2026-10-21",
+   "texto": "Fenebrutinib, inhibidor oral de la tirosina cinasa de Bruton (BTK), la misma diana que tolebrutinib, en investigación: sin autorización en la UE ni en EE. UU.; la FDA admitió a trámite su solicitud el 30-09-2026, con revisión prioritaria. En el congreso de esclerosis múltiple MSToronto2026 (10.º congreso conjunto ACTRIMS-ECTRIMS, Toronto, 21-23 de octubre), Roche presentó el análisis conjunto de los ensayos de fase 3 FENhance 1 y 2 en esclerosis múltiple recurrente (unos 1.500 pacientes, 96 semanas, frente a teriflunomida): un 55 % menos de brotes al año en términos relativos; la nota de la compañía no da las tasas absolutas del análisis conjunto. La progresión confirmada de la discapacidad a 12 semanas, variable secundaria, bajó un 16 % en términos relativos. Es otra forma de la enfermedad (recurrente, con brotes) y no se comparó con tolebrutinib.",
+   "fuentes": [
+    53,
+    54,
+    46,
+    55
+   ]
+  }
+ ],
+ "grupo_aporta": [],
+ "fuentes": [
+  {
+   "n": 8,
+   "texto": "Cleveland Clinic, resumen de HERCULES (NEJM, doi 10.1056/NEJMoa2415988): 22,6 % frente a 30,7 %, HR 0,69, seguimiento, ALT 4,0 % frente a 1,6 %.",
+   "url": "https://consultqd.clevelandclinic.org/disability-progression-slowed-for-first-time-in-nonrelapsing-secondary-progressive-multiple-sclerosis"
+  },
+  {
+   "n": 9,
+   "texto": "EMA, EPAR de tolebrutinib: autorización 19-06-2026, CHMP 23-04-2026, indicación, seguimiento adicional, material educativo y tarjeta del paciente.",
+   "url": "https://www.ema.europa.eu/it/medicines/human/EPAR/cenrifki"
+  },
+  {
+   "n": 11,
+   "texto": "Sanofi, 24-12-2025, y Fierce Biotech, 06-01-2026 (https://fiercebiotech.com/biotech/fda-cites-severe-liver-injury-risk-unclear-benefit-behind-sanofis-ms-drug-rejection): carta de respuesta completa de la FDA y motivos.",
+   "url": "https://www.sanofi.com/en/media-room/press-releases/2025/2025-12-24-06-00-00-3210238"
+  },
+  {
+   "n": 12,
+   "texto": "AEMPS, inicio de IPT del CHMP de abril de 2026 (28-05-2026): IPT de tolebrutinib en marcha.",
+   "url": "https://www.aemps.gob.es/informa/la-aemps-inicia-los-ipt-de-los-medicamentos-que-han-obtenido-una-opinion-positiva-en-la-reunion-del-chmp-celebrada-en-abril-2/"
+  },
+  {
+   "n": 13,
+   "texto": "AGEDEM, 23-09-2026: llegada de tolebrutinib a España no antes de 2027.",
+   "url": "https://www.agedem.es/tolebrutinib-cenrifki-cuando-estara-disponible/"
+  },
+  {
+   "n": 14,
+   "texto": "UIC Drug Information Group, CLARITY AD: n, CDR-SB 1,21 frente a 1,66, ARIA-E 12,6 % frente a 1,7 %.",
+   "url": "https://dig.pharmacy.uic.edu/faqs/april-2023-faqs/what-clinical-evidence-supports-the-use-of-lecanemab-for-alzheimer-disease"
+  },
+  {
+   "n": 15,
+   "texto": "Lilly Medical, TRAILBLAZER-ALZ 2: CDR-SB en población total.",
+   "url": "https://medical.lilly.com/us/products/answers/what-is-the-efficacy-of-kisunla-donanemab-azbt-in-the-treatment-of-early-symptomatic-alzheimer-s-disease-203181"
+  },
+  {
+   "n": 16,
+   "texto": "RxFiles, TRAILBLAZER-ALZ 2, y NeurologyLive (https://neurologylive.com/view/donanemab-demonstrates-slowing-alzheimer-disease-progression-phase-3-trailblazer-alz-2-trial): rango de las escalas, ARIA-E 24 % frente a 2,1 %.",
+   "url": "https://www.rxfiles.ca/RxFiles/uploads/documents/ts-TRAILBLAZER-ALZ-2-TRIAL-SUMMARY-2023.pdf"
+  },
+  {
+   "n": 17,
+   "texto": "EMA, EPAR de lecanemab y EPAR de donanemab (https://www.ema.europa.eu/en/medicines/human/EPAR/kisunla): fechas de autorización, restricción por ApoE4, pautas.",
+   "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leqembi"
+  },
+  {
+   "n": 18,
+   "texto": "Redacción Médica, 09-04-2026: rechazo de lecanemab.",
+   "url": "https://www.redaccionmedica.com/secciones/industria/el-lecanemab-para-alzheimer-y-otros-4-farmacos-reciben-un-no-de-la-cipm-5698"
+  },
+  {
+   "n": 19,
+   "texto": "El Español, 08-05-2026: rechazo de donanemab en la CIPM del 25-03-2026 y motivos.",
+   "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260508/rechazo-financiar-segundo-farmaco-alzheimer-despierta-temores-medicos-pacientes/1003744237569_0.html"
+  },
+  {
+   "n": 20,
+   "texto": "Redacción Médica, 09-10-2026: acuerdos de la CIPM de julio publicados el 09-10-2026; alegaciones desestimadas; motivos.",
+   "url": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261009/sanidad-mantiene-su-rechazo-financiar-los-farmacos-para-el-alzheimer-tras-desestimar-las-alegaciones/361120_0.html"
+  },
+  {
+   "n": 22,
+   "texto": "Redacción Médica, 17-07-2026: donanemab en la sanidad privada.",
+   "url": "https://www.redaccionmedica.com/secciones/industria/tratamiento-lilly-alzheimer-disponible-via-privada-6869"
+  },
+  {
+   "n": 23,
+   "texto": "Cochrane, 16-04-2026, y The Limbic, 04-08-2026 (https://thelimbic.com/?p=20736381): revisión y petición de retirada.",
+   "url": "https://hongkong.cochrane.org/news/anti-amyloid-alzheimers-drugs-show-no-clinically-meaningful-effect"
+  },
+  {
+   "n": 24,
+   "texto": "Titulares de El Español del 16-04-2026 y del 17-07-2026.",
+   "url": ""
+  },
+  {
+   "n": 25,
+   "texto": "Ministerio de Sanidad, informe público de omaveloxolona: CIPM del 28-01-2026, indicación desde 16 años, criterios de inicio, seguimiento y retirada, pie cavo.",
+   "url": "https://vsf-iwsold-pro-portal.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/informesPublicos/docs/InformePublicoSkyclarys.pdf"
+  },
+  {
+   "n": 27,
+   "texto": "UK DRI, sobre Alzheimer's & Dementia 2026;22(7):e71696 (28-07-2026): críticas a la revisión Cochrane.",
+   "url": "https://www.ukdri.ac.uk/publications/recent-cochrane-review-has-serious-flaws-perspective-clinicians-and-researchers-around"
+  },
+  {
+   "n": 28,
+   "texto": "BIFIMED, consultado el 17-10-2026: altas de omaveloxolona (01-03-2026), givinostat (01-12-2025) y vamorolona (01-04-2026); vamorolona desde 2 años «En estudio».",
+   "url": ""
+  },
+  {
+   "n": 29,
+   "texto": "Friedreich's Ataxia News, sobre Lynch et al., Ann Neurol 2020 (MOXIe): 103 aleatorizados, 82 en el análisis principal, −1,55 frente a +0,85, diferencia 2,40. Rango de la mFARS: web del producto (https://www.skyclarys.com/en-us/home/why-skyclarys/efficacy.html).",
+   "url": "https://friedreichsataxianews.com/news/omaveloxolone-shows-range-neurological-benefits-moxie-trial-results/"
+  },
+  {
+   "n": 30,
+   "texto": "Farmacosalud, 19-03-2026, y La Noción (EFE), 18-03-2026 (https://www.lanocion.es/espanya/20260318/nuevo-tratamiento-para-la-ataxia-de-friedreich-frena-68-progresion-de-la-discapacidad): el «68 %», atribuido a seguimientos a 5 años.",
+   "url": "https://farmacosalud.com/llega-omaveloxolona-el-farmaco-que-logra-reducir-hasta-un-68-la-progresion-de-la-ataxia-de-friedreich/"
+  },
+  {
+   "n": 31,
+   "texto": "Lynch et al., Ann Clin Transl Neurol 2023;11(1):4-16: comparación con la historia natural a 3 años, 55 % menos de progresión.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10791025"
+  },
+  {
+   "n": 32,
+   "texto": "Maldita, 19-05-2026: no financiación en 2025, acceso por comunidades, denegaciones recogidas por Fedaes.",
+   "url": "https://maldita.es/malditobulo/20260519/hay-comunidades-autonomas-desde-las-que-no-se-tiene-acceso-a-la-omaveloxolona-el-tratamiento-para-la-ataxia-de-friedreich/"
+  },
+  {
+   "n": 33,
+   "texto": "NICE, TA1061, y Ataxia UK, febrero de 2026 (https://www.ataxia.org.uk/wp-content/uploads/2026/03/Ataxia-UK-Omaveloxolone-policy-briefing-note_February-2026_Final-approved.pdf): sin recomendación porque el laboratorio retiró la solicitud.",
+   "url": "https://www.nice.org.uk/guidance/TA1061"
+  },
+  {
+   "n": 34,
+   "texto": "Ministerio de Sanidad, informe público de givinostat: CIPM del 22-10-2025, restricciones, autorización condicional del 06-06-2025, incertidumbres, IPT-435 del 10-03-2026, control de plaquetas y triglicéridos.",
+   "url": "https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/informesPublicos/docs/InformePublicoDuvyzat.pdf"
+  },
+  {
+   "n": 35,
+   "texto": "CIPM, nota informativa de octubre de 2025: indicación de givinostat.",
+   "url": "https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/docs/NOTAINFORMATIVACIPM_OCTUBRE2025.pdf"
+  },
+  {
+   "n": 36,
+   "texto": "NCPE (Irlanda), resumen técnico de givinostat, febrero de 2026: 118 frente a 61, 1,25 frente a 3,03 s, NSAA, plaquetas 57 % frente a 5 %.",
+   "url": "https://www.ncpe.ie/wp-content/uploads/2026/02/Givinostat-Technical-Summary.-HTA-ID-25048.pdf"
+  },
+  {
+   "n": 37,
+   "texto": "Ministerio de Sanidad, informe público de vamorolona (29-04-2026): CIPM del 25-02-2026, segunda línea y su definición, criterios de retirada, autorización europea del 14-12-2023, IPT-355, sin diferencias frente a prednisona.",
+   "url": "https://vsf-iwsold-pro-portal.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/informesPublicos/docs/InformePublicoAgamree.pdf"
+  },
+  {
+   "n": 38,
+   "texto": "NeurologyLive, sobre Guglieri et al., JAMA Neurol 2022, y Practical Neurology (https://practicalneurology.com/news/vamorolone-has-efficacy-for-treating-duchenne-muscular-dystrophy-without-affecting-growth/2470013): 30/31/30/30 niños, velocidad al levantarse, percentil de talla −1,88 frente a +3,86.",
+   "url": "https://neurologylive.com/view/vamorolone-shows-efficacy-duchenne-muscular-dystrophy-safety-advantages-over-prednisone"
+  },
+  {
+   "n": 39,
+   "texto": "Muscular Dystrophy News, 03-06-2021: tiempo en levantarse 6,0 → 4,6 s frente a 5,4 → 5,5 s.",
+   "url": "https://musculardystrophynews.com/news/vamorolone-safely-meets-efficacy-outcomes-vision-dmd-trial/"
+  },
+  {
+   "n": 40,
+   "texto": "iSanidad, 03-02-2026: crítica de Duchenne Parent Project España a la no financiación.",
+   "url": "https://isanidad.com/359635/pacientes-con-epoc-duchenne-lamentan-sanidad-decida-no-financiar-indicaciones-especificas-dupilumab-vamorolona/"
+  },
+  {
+   "n": 41,
+   "texto": "G-BA, resolución del 04-07-2024 sobre vamorolona: beneficio adicional no cuantificable frente a prednisona y motivos.",
+   "url": "https://g-ba.de/downloads/40-268-11266/2024-07-04_AM-RL-XII_Vamorolon_D-1037_ZD.pdf"
+  },
+  {
+   "n": 42,
+   "texto": "EMA, ficha técnica de tolebrutinib: 60 mg diarios, calendario de analíticas hepáticas, criterios de interrupción, contraindicaciones, HERCULES (754 frente a 377).",
+   "url": "https://www.ema.europa.eu/en/documents/product-information/cenrifki-epar-product-information_en.pdf"
+  },
+  {
+   "n": 43,
+   "texto": "Infosalus (Europa Press), 14-10-2026: recogida de firmas de CEAFA; 4 % de candidatos según la SEN.",
+   "url": "https://www.infosalus.com/actualidad/noticia-ceafa-inicia-recogida-firmas-exigir-financiacion-publica-lecanemab-donanemab-alzheimer-20261014103046.html"
+  },
+  {
+   "n": 44,
+   "texto": "NeurologyLive, 02-10-2026: datos de givinostat en AANEM 2026 y sus limitaciones.",
+   "url": "https://www.neurologylive.com/view/givinostat-data-aanem-2026-point-delayed-loss-ambulation-preserved-muscle-tissue-dmd"
+  },
+  {
+   "n": 45,
+   "texto": "EMA, highlights del CHMP del 12-15 de octubre de 2026: sin medicamentos de neurología.",
+   "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026"
+  },
+  {
+   "n": 46,
+   "texto": "MSToronto2026, 10.º congreso conjunto ACTRIMS-ECTRIMS, 21-23 de octubre de 2026.",
+   "url": "https://conferenceinc.net/event/ectrims-2026-toronto/"
+  },
+  {
+   "n": 47,
+   "texto": "Italfarmaco, 19-03-2024, publicación de EPIDYS en Lancet Neurology: diferencia de 1,78 s (p = 0,037), NSAA según el laboratorio.",
+   "url": "https://www.businesswire.com/news/home/20240319626593/en/Results-from-Italfarmaco-Pivotal-Phase-3-EPIDYS-Study-of-Givinostat-in-Duchenne-Muscular-Dystrophy-DMD-Published-in-The-Lancet-Neurology"
+  },
+  {
+   "n": 48,
+   "texto": "The Pharma Letter, 16-01-2025: recomendación final de NICE de vamorolona.",
+   "url": "https://www.thepharmaletter.com/final-nice-nod-for-santheras-agamree"
+  },
+  {
+   "n": 49,
+   "texto": "Duchenne UK, 12-05-2026: borrador final de NICE que recomienda givinostat.",
+   "url": "https://www.duchenneuk.org/givinostat-approved-for-use-in-nhs-england/"
+  },
+  {
+   "n": 50,
+   "texto": "CIPM, nota informativa de septiembre de 2026: vamorolona desde 2 años (reunión del 23-09-2026) y plazos de entrada en el Nomenclátor.",
+   "url": "https://www.sanidad.gob.es/areas/farmacia/precios/comisionInteministerial/acuerdosNotasInformativas/docs/Nota_informativa_CIPM_Septiembre_2026.pdf"
+  },
+  {
+   "n": 51,
+   "texto": "Duchenne Parent Project España, 03-10-2026: anuncio de la ampliación de la financiación de vamorolona desde los 2 años.",
+   "url": "https://www.duchenne-spain.org/blog/sanidad-amplia-la-financiacion-de-agamree-vamorolona-para-la-distrofia-muscular-de-duchenne-desde-los-2-anos-de-edad/"
+  },
+  {
+   "n": 52,
+   "texto": "EMA, EPAR de vamorolona: indicación en distrofia muscular de Duchenne desde 2 años de edad.",
+   "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/agamree"
+  },
+  {
+   "n": 53,
+   "texto": "Roche, 21-10-2026 (nota en GlobeNewswire): análisis conjunto de los ensayos de fase 3 FENhance 1 y 2 de fenebrutinib presentado en MSToronto2026: 55 % menos de brotes al año y 16 % menos de progresión confirmada de la discapacidad a 12 semanas frente a teriflunomida, en términos relativos.",
+   "url": "https://www.globenewswire.com/news-release/2026/10/21/3385482/0/en/roche-presents-new-pivotal-trial-data-across-broad-neuroimmunology-portfolio-at-mstoronto2026.html"
+  },
+  {
+   "n": 54,
+   "texto": "G. Giovannoni, MS-Selfie, 21-10-2026: crónica de MSToronto2026; FENhance 1 y 2 con unos 1.500 pacientes.",
+   "url": "https://gavingiovannoni.substack.com/p/mstoronto2026"
+  },
+  {
+   "n": 55,
+   "texto": "Roche, 30-09-2026: la FDA admite a trámite, con revisión prioritaria, la solicitud de autorización de fenebrutinib en esclerosis múltiple recurrente y primaria progresiva.",
+   "url": "https://www.roche.com/media/releases/med-cor-2026-09-30"
+  }
+ ]
+}
